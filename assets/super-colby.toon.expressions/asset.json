@@ -1,0 +1,63 @@
+{
+  "author": "bsommers",
+  "description": "Expression sheet (neutral, smug, heroic, surprised).",
+  "files": [
+    {
+      "bytes": 1117,
+      "path": "bible.json",
+      "sha256": "8db6b9e5e17398ae57d2b182ae1e085d101dc0698cc6fb22c25ac1ae2ca03561"
+    },
+    {
+      "bytes": 40753,
+      "path": "expressions.png",
+      "sha256": "f144e02d9b95c95d2eff63cadb05fa69a250cdd8f5a809e8b9da061fb4dfb538"
+    },
+    {
+      "bytes": 6301,
+      "path": "prompts.json",
+      "sha256": "a47c78c9fb48e97eaf114580c8b9576cec029695256560ee39a977faad23b157"
+    },
+    {
+      "bytes": 8911,
+      "path": "verdict.json",
+      "sha256": "1cc973c4fb14fdcb619304fa715525a9e0059fa1fa913a7db7f06d624889586a"
+    }
+  ],
+  "format": "png+json",
+  "hash": "b7d5d8c974e6611bba1da232e223d8e0f55112f9ab3e91dd45f6766f03416ac4",
+  "id": "super-colby.toon.expressions",
+  "license": "CC0-1.0",
+  "name": "Super Colby: toon expressions",
+  "palette": [
+    "#e8963c",
+    "#c76a1f",
+    "#fbe5c8",
+    "#3f77bd",
+    "#e0392b",
+    "#f4d12e",
+    "#f26a10",
+    "#8fc04a",
+    "#1a1a1a"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawedracer",
+    "generator": "mock-procedural/1.0 (toon)",
+    "note": "bible 214b35070cd010d5; prompts 57e928ef4ef066a0,de3769571e79d1af,93c16c56972b779b,76ee9f8565ac123a; seeds 3,4,5,6; verdict pass",
+    "source": "char-pipeline 1.0"
+  },
+  "size": {
+    "h": 512,
+    "w": 768
+  },
+  "tags": [
+    "character:super-colby",
+    "generator:mock",
+    "quality:placeholder",
+    "role:hero",
+    "species:cat",
+    "style:cartoon-vector"
+  ],
+  "type": "character",
+  "version": "1.0.0"
+}

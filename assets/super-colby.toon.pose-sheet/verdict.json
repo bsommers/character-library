@@ -1,0 +1,354 @@
+{
+  "pass": true,
+  "summary": "10/10 items pass",
+  "items": [
+    {
+      "label": "pose-idle",
+      "kind": "pose",
+      "checks": [
+        {
+          "name": "palette",
+          "rows": [
+            {
+              "role": "fur",
+              "want": "#e8963c",
+              "nearest": "#e8963c",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "stripes",
+              "want": "#c76a1f",
+              "nearest": "#c76a1f",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "cream",
+              "want": "#fbe5c8",
+              "nearest": "#fbe5c8",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "shirt",
+              "want": "#3f77bd",
+              "nearest": "#3f77bd",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "shield",
+              "want": "#e0392b",
+              "nearest": "#e0392b",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "emblem",
+              "want": "#f4d12e",
+              "nearest": "#f4d12e",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "cape",
+              "want": "#f26a10",
+              "nearest": "#f26a10",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "eyes",
+              "want": "#8fc04a",
+              "nearest": "#8fc04a",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "outline",
+              "want": "#1a1a1a",
+              "nearest": "#1a1a1a",
+              "dist": 0,
+              "ok": true
+            }
+          ],
+          "coverage": 1,
+          "pixelCoverage": 0.971,
+          "pass": true,
+          "detail": "9/9 bible colours found (need 60%), 97% of pixels on-palette (need 75%)"
+        },
+        {
+          "name": "size-anchor",
+          "fill": 0.88,
+          "footY": 0.959,
+          "centreX": 0.501,
+          "pass": true,
+          "detail": "fill 0.88, feet at 0.96, centre 0.50"
+        }
+      ],
+      "pass": true
+    },
+    {
+      "label": "pose-run",
+      "kind": "pose",
+      "checks": [
+        {
+          "name": "palette",
+          "rows": [
+            {
+              "role": "fur",
+              "want": "#e8963c",
+              "nearest": "#e8963c",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "stripes",
+              "want": "#c76a1f",
+              "nearest": "#c76a1f",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "cream",
+              "want": "#fbe5c8",
+              "nearest": "#fbe5c8",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "shirt",
+              "want": "#3f77bd",
+              "nearest": "#3f77bd",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "shield",
+              "want": "#e0392b",
+              "nearest": "#e0392b",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "emblem",
+              "want": "#f4d12e",
+              "nearest": "#f4d12e",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "cape",
+              "want": "#f26a10",
+              "nearest": "#f26a10",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "eyes",
+              "want": "#8fc04a",
+              "nearest": "#8fc04a",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "outline",
+              "want": "#1a1a1a",
+              "nearest": "#1a1a1a",
+              "dist": 0,
+              "ok": true
+            }
+          ],
+          "coverage": 1,
+          "pixelCoverage": 0.971,
+          "pass": true,
+          "detail": "9/9 bible colours found (need 60%), 97% of pixels on-palette (need 75%)"
+        },
+        {
+          "name": "size-anchor",
+          "fill": 0.88,
+          "footY": 0.959,
+          "centreX": 0.501,
+          "pass": true,
+          "detail": "fill 0.88, feet at 0.96, centre 0.50"
+        }
+      ],
+      "pass": true
+    },
+    {
+      "label": "pose-jump",
+      "kind": "pose",
+      "checks": [
+        {
+          "name": "palette",
+          "rows": [
+            {
+              "role": "fur",
+              "want": "#e8963c",
+              "nearest": "#e8963c",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "stripes",
+              "want": "#c76a1f",
+              "nearest": "#c76a1f",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "cream",
+              "want": "#fbe5c8",
+              "nearest": "#fbe5c8",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "shirt",
+              "want": "#3f77bd",
+              "nearest": "#3f77bd",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "shield",
+              "want": "#e0392b",
+              "nearest": "#e0392b",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "emblem",
+              "want": "#f4d12e",
+              "nearest": "#f4d12e",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "cape",
+              "want": "#f26a10",
+              "nearest": "#f26a10",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "eyes",
+              "want": "#8fc04a",
+              "nearest": "#8fc04a",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "outline",
+              "want": "#1a1a1a",
+              "nearest": "#1a1a1a",
+              "dist": 0,
+              "ok": true
+            }
+          ],
+          "coverage": 1,
+          "pixelCoverage": 0.971,
+          "pass": true,
+          "detail": "9/9 bible colours found (need 60%), 97% of pixels on-palette (need 75%)"
+        },
+        {
+          "name": "size-anchor",
+          "fill": 0.88,
+          "footY": 0.959,
+          "centreX": 0.501,
+          "pass": true,
+          "detail": "fill 0.88, feet at 0.96, centre 0.50"
+        }
+      ],
+      "pass": true
+    },
+    {
+      "label": "pose-celebrate",
+      "kind": "pose",
+      "checks": [
+        {
+          "name": "palette",
+          "rows": [
+            {
+              "role": "fur",
+              "want": "#e8963c",
+              "nearest": "#e8963c",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "stripes",
+              "want": "#c76a1f",
+              "nearest": "#c76a1f",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "cream",
+              "want": "#fbe5c8",
+              "nearest": "#fbe5c8",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "shirt",
+              "want": "#3f77bd",
+              "nearest": "#3f77bd",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "shield",
+              "want": "#e0392b",
+              "nearest": "#e0392b",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "emblem",
+              "want": "#f4d12e",
+              "nearest": "#f4d12e",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "cape",
+              "want": "#f26a10",
+              "nearest": "#f26a10",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "eyes",
+              "want": "#8fc04a",
+              "nearest": "#8fc04a",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "outline",
+              "want": "#1a1a1a",
+              "nearest": "#1a1a1a",
+              "dist": 0,
+              "ok": true
+            }
+          ],
+          "coverage": 1,
+          "pixelCoverage": 0.971,
+          "pass": true,
+          "detail": "9/9 bible colours found (need 60%), 97% of pixels on-palette (need 75%)"
+        },
+        {
+          "name": "size-anchor",
+          "fill": 0.88,
+          "footY": 0.959,
+          "centreX": 0.501,
+          "pass": true,
+          "detail": "fill 0.88, feet at 0.96, centre 0.50"
+        }
+      ],
+      "pass": true
+    }
+  ]
+}

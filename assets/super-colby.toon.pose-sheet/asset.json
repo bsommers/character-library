@@ -1,0 +1,63 @@
+{
+  "author": "bsommers",
+  "description": "Pose sheet (idle, run, jump, celebrate).",
+  "files": [
+    {
+      "bytes": 1117,
+      "path": "bible.json",
+      "sha256": "8db6b9e5e17398ae57d2b182ae1e085d101dc0698cc6fb22c25ac1ae2ca03561"
+    },
+    {
+      "bytes": 43519,
+      "path": "pose-sheet.png",
+      "sha256": "9728e91eb4a204e7dc64abaa50ac956c35f8d565a1ecfba381f2ee477016590a"
+    },
+    {
+      "bytes": 6184,
+      "path": "prompts.json",
+      "sha256": "d06f156cd7c55c0238b0329844ce9a3f681ebd795df3fccfda0d1cdcc24bbd94"
+    },
+    {
+      "bytes": 8853,
+      "path": "verdict.json",
+      "sha256": "eee86e730ec3bafce0ff6a6bea74721aa89c0e66826e94fb70ec811e16eeb1ec"
+    }
+  ],
+  "format": "png+json",
+  "hash": "223ddd8b83b8686150ae090060c90a23ea4f458416d671ad74fca6ebe3c1f934",
+  "id": "super-colby.toon.pose-sheet",
+  "license": "CC0-1.0",
+  "name": "Super Colby: toon pose sheet",
+  "palette": [
+    "#e8963c",
+    "#c76a1f",
+    "#fbe5c8",
+    "#3f77bd",
+    "#e0392b",
+    "#f4d12e",
+    "#f26a10",
+    "#8fc04a",
+    "#1a1a1a"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawedracer",
+    "generator": "mock-procedural/1.0 (toon)",
+    "note": "bible 214b35070cd010d5; prompts f2ef76aad811ea4f,2c14d6126979fe1f,2a4f7ef0103f8b2d,50c66b0190a60062; seeds 7,8,9,10; verdict pass",
+    "source": "char-pipeline 1.0"
+  },
+  "size": {
+    "h": 512,
+    "w": 768
+  },
+  "tags": [
+    "character:super-colby",
+    "generator:mock",
+    "quality:placeholder",
+    "role:hero",
+    "species:cat",
+    "style:cartoon-vector"
+  ],
+  "type": "character",
+  "version": "1.0.0"
+}

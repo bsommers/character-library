@@ -358,19 +358,167 @@
       ],
       "type": "character",
       "version": "0.1.0"
+    },
+    {
+      "author": "bsommers",
+      "bytes": 55231,
+      "description": "In-game billboard sprite with mip chain 256/128/64/32 px (mips.png).",
+      "descriptor": "assets/super-colby.toon.billboard/asset.json",
+      "format": "png+json",
+      "hash": "9f0b768a1c9a614f8a6c68db44ff7d81969a3053b859e295c11d32625a2e91a3",
+      "id": "super-colby.toon.billboard",
+      "license": "CC0-1.0",
+      "name": "Super Colby: toon billboard",
+      "palette": [
+        "#e8963c",
+        "#c76a1f",
+        "#fbe5c8",
+        "#3f77bd",
+        "#e0392b",
+        "#f4d12e",
+        "#f26a10",
+        "#8fc04a",
+        "#1a1a1a"
+      ],
+      "preview": "assets/super-colby.toon.billboard/preview.png",
+      "size": {
+        "h": 320,
+        "w": 256
+      },
+      "tags": [
+        "character:super-colby",
+        "generator:mock",
+        "quality:placeholder",
+        "role:hero",
+        "species:cat",
+        "style:cartoon-vector"
+      ],
+      "type": "sprite",
+      "version": "1.0.0"
+    },
+    {
+      "author": "bsommers",
+      "bytes": 57082,
+      "description": "Expression sheet (neutral, smug, heroic, surprised).",
+      "descriptor": "assets/super-colby.toon.expressions/asset.json",
+      "format": "png+json",
+      "hash": "b7d5d8c974e6611bba1da232e223d8e0f55112f9ab3e91dd45f6766f03416ac4",
+      "id": "super-colby.toon.expressions",
+      "license": "CC0-1.0",
+      "name": "Super Colby: toon expressions",
+      "palette": [
+        "#e8963c",
+        "#c76a1f",
+        "#fbe5c8",
+        "#3f77bd",
+        "#e0392b",
+        "#f4d12e",
+        "#f26a10",
+        "#8fc04a",
+        "#1a1a1a"
+      ],
+      "preview": "assets/super-colby.toon.expressions/preview.png",
+      "size": {
+        "h": 512,
+        "w": 768
+      },
+      "tags": [
+        "character:super-colby",
+        "generator:mock",
+        "quality:placeholder",
+        "role:hero",
+        "species:cat",
+        "style:cartoon-vector"
+      ],
+      "type": "character",
+      "version": "1.0.0"
+    },
+    {
+      "author": "bsommers",
+      "bytes": 59673,
+      "description": "Pose sheet (idle, run, jump, celebrate).",
+      "descriptor": "assets/super-colby.toon.pose-sheet/asset.json",
+      "format": "png+json",
+      "hash": "223ddd8b83b8686150ae090060c90a23ea4f458416d671ad74fca6ebe3c1f934",
+      "id": "super-colby.toon.pose-sheet",
+      "license": "CC0-1.0",
+      "name": "Super Colby: toon pose sheet",
+      "palette": [
+        "#e8963c",
+        "#c76a1f",
+        "#fbe5c8",
+        "#3f77bd",
+        "#e0392b",
+        "#f4d12e",
+        "#f26a10",
+        "#8fc04a",
+        "#1a1a1a"
+      ],
+      "preview": "assets/super-colby.toon.pose-sheet/preview.png",
+      "size": {
+        "h": 512,
+        "w": 768
+      },
+      "tags": [
+        "character:super-colby",
+        "generator:mock",
+        "quality:placeholder",
+        "role:hero",
+        "species:cat",
+        "style:cartoon-vector"
+      ],
+      "type": "character",
+      "version": "1.0.0"
+    },
+    {
+      "author": "bsommers",
+      "bytes": 98566,
+      "description": "Front and side turnaround of Super Colby (toon).",
+      "descriptor": "assets/super-colby.toon.turnaround/asset.json",
+      "format": "png+json",
+      "hash": "f82925d2a8326ab9ee85937951e655b1a2314749def9a81cfec48271dba6e7c3",
+      "id": "super-colby.toon.turnaround",
+      "license": "CC0-1.0",
+      "name": "Super Colby: toon turnaround",
+      "palette": [
+        "#e8963c",
+        "#c76a1f",
+        "#fbe5c8",
+        "#3f77bd",
+        "#e0392b",
+        "#f4d12e",
+        "#f26a10",
+        "#8fc04a",
+        "#1a1a1a"
+      ],
+      "preview": "assets/super-colby.toon.turnaround/preview.png",
+      "size": {
+        "h": 738,
+        "w": 1165
+      },
+      "tags": [
+        "character:super-colby",
+        "generator:mock",
+        "quality:placeholder",
+        "role:hero",
+        "species:cat",
+        "style:cartoon-vector"
+      ],
+      "type": "character",
+      "version": "1.0.0"
     }
   ],
   "counts": {
     "byType": {
-      "character": 8,
-      "sprite": 2
+      "character": 11,
+      "sprite": 3
     },
-    "total": 10
+    "total": 14
   },
   "formatVersion": 1,
   "library": {
     "description": "Reusable character art for the Colby/Pete universe: turnaround sheets, bibles, prompts, billboards in several styles",
-    "hash": "4a5ea3398ef5744ef0db3bcd9482cc1c1bda5d6f4cfb608470302e2d9924e822",
+    "hash": "34732974654f195424ce3f95689ba5f11ca48115a28d0fdb45b5f74d73b17599",
     "license": "CC0-1.0",
     "name": "character-library",
     "tags": [

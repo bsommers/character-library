@@ -1,0 +1,90 @@
+[
+  {
+    "label": "pose-idle",
+    "prompt": "Super Colby, a cat (orange tabby), hero character, chubby, round, upright. mood: cheerful, smug, heroic. colours: fur #e8963c, stripes #c76a1f, cream #fbe5c8, shirt #3f77bd, shield #e0392b, emblem #f4d12e, cape #f26a10, eyes #8fc04a; outline #1a1a1a. markings: darker orange stripes on forehead, cheeks, legs and flanks; ringed tail with cream tip. wearing: long-sleeved blue shirt with red-and-yellow shield and stylised letter C (original emblem, not any existing logo); bright orange cape with darker lining. must keep: pink inner ears; cream muzzle, belly patch and paws; ringed tail with cream tip; big green eyes. pose: idle. shot: full-body pose, plain flat background, feet visible. style: clean uniform near-black outline, closed shapes, flat cel fills with one soft shade tone, a few hard-edged accent strokes, chubby readable proportions, no gradients on the character.",
+    "negative": "existing superhero logos, realistic anatomy in toon mode, photorealistic, painterly, gradients on character, sketchy lines, text watermark, deformed, extra fingers, inconsistent colours, cropped, text artefacts",
+    "meta": {
+      "composer": "1.0.0",
+      "bible": "super-colby",
+      "style": "toon",
+      "shot": "pose",
+      "expression": null,
+      "pose": "idle",
+      "variant": null,
+      "size": [
+        512,
+        640
+      ],
+      "bibleHash": "214b35070cd010d5",
+      "promptHash": "f2ef76aad811ea4f"
+    },
+    "model": "mock-procedural/1.0 (toon)",
+    "seed": 7
+  },
+  {
+    "label": "pose-run",
+    "prompt": "Super Colby, a cat (orange tabby), hero character, chubby, round, upright. mood: cheerful, smug, heroic. colours: fur #e8963c, stripes #c76a1f, cream #fbe5c8, shirt #3f77bd, shield #e0392b, emblem #f4d12e, cape #f26a10, eyes #8fc04a; outline #1a1a1a. markings: darker orange stripes on forehead, cheeks, legs and flanks; ringed tail with cream tip. wearing: long-sleeved blue shirt with red-and-yellow shield and stylised letter C (original emblem, not any existing logo); bright orange cape with darker lining. must keep: pink inner ears; cream muzzle, belly patch and paws; ringed tail with cream tip; big green eyes. pose: run. shot: full-body pose, plain flat background, feet visible. style: clean uniform near-black outline, closed shapes, flat cel fills with one soft shade tone, a few hard-edged accent strokes, chubby readable proportions, no gradients on the character.",
+    "negative": "existing superhero logos, realistic anatomy in toon mode, photorealistic, painterly, gradients on character, sketchy lines, text watermark, deformed, extra fingers, inconsistent colours, cropped, text artefacts",
+    "meta": {
+      "composer": "1.0.0",
+      "bible": "super-colby",
+      "style": "toon",
+      "shot": "pose",
+      "expression": null,
+      "pose": "run",
+      "variant": null,
+      "size": [
+        512,
+        640
+      ],
+      "bibleHash": "214b35070cd010d5",
+      "promptHash": "2c14d6126979fe1f"
+    },
+    "model": "mock-procedural/1.0 (toon)",
+    "seed": 8
+  },
+  {
+    "label": "pose-jump",
+    "prompt": "Super Colby, a cat (orange tabby), hero character, chubby, round, upright. mood: cheerful, smug, heroic. colours: fur #e8963c, stripes #c76a1f, cream #fbe5c8, shirt #3f77bd, shield #e0392b, emblem #f4d12e, cape #f26a10, eyes #8fc04a; outline #1a1a1a. markings: darker orange stripes on forehead, cheeks, legs and flanks; ringed tail with cream tip. wearing: long-sleeved blue shirt with red-and-yellow shield and stylised letter C (original emblem, not any existing logo); bright orange cape with darker lining. must keep: pink inner ears; cream muzzle, belly patch and paws; ringed tail with cream tip; big green eyes. pose: jump. shot: full-body pose, plain flat background, feet visible. style: clean uniform near-black outline, closed shapes, flat cel fills with one soft shade tone, a few hard-edged accent strokes, chubby readable proportions, no gradients on the character.",
+    "negative": "existing superhero logos, realistic anatomy in toon mode, photorealistic, painterly, gradients on character, sketchy lines, text watermark, deformed, extra fingers, inconsistent colours, cropped, text artefacts",
+    "meta": {
+      "composer": "1.0.0",
+      "bible": "super-colby",
+      "style": "toon",
+      "shot": "pose",
+      "expression": null,
+      "pose": "jump",
+      "variant": null,
+      "size": [
+        512,
+        640
+      ],
+      "bibleHash": "214b35070cd010d5",
+      "promptHash": "2a4f7ef0103f8b2d"
+    },
+    "model": "mock-procedural/1.0 (toon)",
+    "seed": 9
+  },
+  {
+    "label": "pose-celebrate",
+    "prompt": "Super Colby, a cat (orange tabby), hero character, chubby, round, upright. mood: cheerful, smug, heroic. colours: fur #e8963c, stripes #c76a1f, cream #fbe5c8, shirt #3f77bd, shield #e0392b, emblem #f4d12e, cape #f26a10, eyes #8fc04a; outline #1a1a1a. markings: darker orange stripes on forehead, cheeks, legs and flanks; ringed tail with cream tip. wearing: long-sleeved blue shirt with red-and-yellow shield and stylised letter C (original emblem, not any existing logo); bright orange cape with darker lining. must keep: pink inner ears; cream muzzle, belly patch and paws; ringed tail with cream tip; big green eyes. pose: celebrate. shot: full-body pose, plain flat background, feet visible. style: clean uniform near-black outline, closed shapes, flat cel fills with one soft shade tone, a few hard-edged accent strokes, chubby readable proportions, no gradients on the character.",
+    "negative": "existing superhero logos, realistic anatomy in toon mode, photorealistic, painterly, gradients on character, sketchy lines, text watermark, deformed, extra fingers, inconsistent colours, cropped, text artefacts",
+    "meta": {
+      "composer": "1.0.0",
+      "bible": "super-colby",
+      "style": "toon",
+      "shot": "pose",
+      "expression": null,
+      "pose": "celebrate",
+      "variant": null,
+      "size": [
+        512,
+        640
+      ],
+      "bibleHash": "214b35070cd010d5",
+      "promptHash": "50c66b0190a60062"
+    },
+    "model": "mock-procedural/1.0 (toon)",
+    "seed": 10
+  }
+]

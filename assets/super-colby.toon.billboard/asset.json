@@ -1,0 +1,68 @@
+{
+  "author": "bsommers",
+  "description": "In-game billboard sprite with mip chain 256/128/64/32 px (mips.png).",
+  "files": [
+    {
+      "bytes": 1117,
+      "path": "bible.json",
+      "sha256": "8db6b9e5e17398ae57d2b182ae1e085d101dc0698cc6fb22c25ac1ae2ca03561"
+    },
+    {
+      "bytes": 19281,
+      "path": "billboard.png",
+      "sha256": "323afa5e027015afc711f22f49297b0938c586ed64e3835ffd285713e30bb2e1"
+    },
+    {
+      "bytes": 30758,
+      "path": "mips.png",
+      "sha256": "fda82166a5ea03933e99cafd62248085403ecac632f96114e3309b38b57134e7"
+    },
+    {
+      "bytes": 1586,
+      "path": "prompts.json",
+      "sha256": "277b780a54b901b02f84c283422fa124049303669694c17f97883ea6a9945801"
+    },
+    {
+      "bytes": 2489,
+      "path": "verdict.json",
+      "sha256": "4bb8e28ffc0abe365241c361ae0adc221c17b65741c4f99832bedd6be9913ebe"
+    }
+  ],
+  "format": "png+json",
+  "hash": "9f0b768a1c9a614f8a6c68db44ff7d81969a3053b859e295c11d32625a2e91a3",
+  "id": "super-colby.toon.billboard",
+  "license": "CC0-1.0",
+  "name": "Super Colby: toon billboard",
+  "palette": [
+    "#e8963c",
+    "#c76a1f",
+    "#fbe5c8",
+    "#3f77bd",
+    "#e0392b",
+    "#f4d12e",
+    "#f26a10",
+    "#8fc04a",
+    "#1a1a1a"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawedracer",
+    "generator": "mock-procedural/1.0 (toon)",
+    "note": "bible 214b35070cd010d5; prompts 8c171fd49b420a90; seeds 2; verdict pass",
+    "source": "char-pipeline 1.0"
+  },
+  "size": {
+    "h": 320,
+    "w": 256
+  },
+  "tags": [
+    "character:super-colby",
+    "generator:mock",
+    "quality:placeholder",
+    "role:hero",
+    "species:cat",
+    "style:cartoon-vector"
+  ],
+  "type": "sprite",
+  "version": "1.0.0"
+}

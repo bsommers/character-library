@@ -1,0 +1,63 @@
+{
+  "author": "bsommers",
+  "description": "Front and side turnaround of Super Colby (toon).",
+  "files": [
+    {
+      "bytes": 1117,
+      "path": "bible.json",
+      "sha256": "8db6b9e5e17398ae57d2b182ae1e085d101dc0698cc6fb22c25ac1ae2ca03561"
+    },
+    {
+      "bytes": 1669,
+      "path": "prompts.json",
+      "sha256": "5130f03e2bf0bad983b1a0de700dfbe6d0953c7405b4de3999d107edf242cdd2"
+    },
+    {
+      "bytes": 93724,
+      "path": "turnaround.png",
+      "sha256": "7f970d11f203f24ef41f5ae6833f4a8a3bfc3432a4cd54e405cfd174425496f3"
+    },
+    {
+      "bytes": 2056,
+      "path": "verdict.json",
+      "sha256": "7e5383c895d5f62b9da65d5dc9355134e6210ca86d0e62fa46b7343ddc98d1e1"
+    }
+  ],
+  "format": "png+json",
+  "hash": "f82925d2a8326ab9ee85937951e655b1a2314749def9a81cfec48271dba6e7c3",
+  "id": "super-colby.toon.turnaround",
+  "license": "CC0-1.0",
+  "name": "Super Colby: toon turnaround",
+  "palette": [
+    "#e8963c",
+    "#c76a1f",
+    "#fbe5c8",
+    "#3f77bd",
+    "#e0392b",
+    "#f4d12e",
+    "#f26a10",
+    "#8fc04a",
+    "#1a1a1a"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawedracer",
+    "generator": "mock-procedural/1.0 (toon)",
+    "note": "bible 214b35070cd010d5; prompts 05c15f28c31c65d0; seeds 1; verdict pass",
+    "source": "char-pipeline 1.0"
+  },
+  "size": {
+    "h": 738,
+    "w": 1165
+  },
+  "tags": [
+    "character:super-colby",
+    "generator:mock",
+    "quality:placeholder",
+    "role:hero",
+    "species:cat",
+    "style:cartoon-vector"
+  ],
+  "type": "character",
+  "version": "1.0.0"
+}
