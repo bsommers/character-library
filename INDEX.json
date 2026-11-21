@@ -1,0 +1,382 @@
+{
+  "assets": [
+    {
+      "author": "bsommers",
+      "bytes": 52046,
+      "description": "In-game billboard sprite with mip chain 256/128/64/32 px (mips.png).",
+      "descriptor": "assets/colby.toon.billboard/asset.json",
+      "format": "png+json",
+      "hash": "83c586bdf8e21c07c497f4b595bf968f66662f6e9f60b58e9ea20be13395291e",
+      "id": "colby.toon.billboard",
+      "license": "CC0-1.0",
+      "name": "Colby: toon billboard",
+      "palette": [
+        "#e8963c",
+        "#c76a1f",
+        "#fbe5c8",
+        "#f0a0a0",
+        "#8fc04a",
+        "#e88a8a",
+        "#e0392b",
+        "#f4d12e",
+        "#1a1a1a"
+      ],
+      "preview": "assets/colby.toon.billboard/preview.png",
+      "size": {
+        "h": 320,
+        "w": 256
+      },
+      "tags": [
+        "character:colby",
+        "generator:mock",
+        "quality:placeholder",
+        "role:hero",
+        "species:cat",
+        "style:cartoon-vector"
+      ],
+      "type": "sprite",
+      "version": "1.0.0"
+    },
+    {
+      "author": "bsommers",
+      "bytes": 75350,
+      "description": "Expression sheet (neutral, happy, scared, surprised, determined, smug).",
+      "descriptor": "assets/colby.toon.expressions/asset.json",
+      "format": "png+json",
+      "hash": "1eaa23c0af38076fe80aa542bd2de0f880cdf482c83ad1bb16ba0685354784ec",
+      "id": "colby.toon.expressions",
+      "license": "CC0-1.0",
+      "name": "Colby: toon expressions",
+      "palette": [
+        "#e8963c",
+        "#c76a1f",
+        "#fbe5c8",
+        "#f0a0a0",
+        "#8fc04a",
+        "#e88a8a",
+        "#e0392b",
+        "#f4d12e",
+        "#1a1a1a"
+      ],
+      "preview": "assets/colby.toon.expressions/preview.png",
+      "size": {
+        "h": 512,
+        "w": 768
+      },
+      "tags": [
+        "character:colby",
+        "generator:mock",
+        "quality:placeholder",
+        "role:hero",
+        "species:cat",
+        "style:cartoon-vector"
+      ],
+      "type": "character",
+      "version": "1.0.0"
+    },
+    {
+      "author": "bsommers",
+      "bytes": 59093,
+      "description": "Pose sheet (idle, hop, run, splat-free-dodge, celebrate).",
+      "descriptor": "assets/colby.toon.pose-sheet/asset.json",
+      "format": "png+json",
+      "hash": "815270262b9b6bde12055b4d6fd1f744591a435278a97713426a3802f9534105",
+      "id": "colby.toon.pose-sheet",
+      "license": "CC0-1.0",
+      "name": "Colby: toon pose sheet",
+      "palette": [
+        "#e8963c",
+        "#c76a1f",
+        "#fbe5c8",
+        "#f0a0a0",
+        "#8fc04a",
+        "#e88a8a",
+        "#e0392b",
+        "#f4d12e",
+        "#1a1a1a"
+      ],
+      "preview": "assets/colby.toon.pose-sheet/preview.png",
+      "size": {
+        "h": 512,
+        "w": 768
+      },
+      "tags": [
+        "character:colby",
+        "generator:mock",
+        "quality:placeholder",
+        "role:hero",
+        "species:cat",
+        "style:cartoon-vector"
+      ],
+      "type": "character",
+      "version": "1.0.0"
+    },
+    {
+      "author": "bsommers",
+      "bytes": 92071,
+      "description": "Front and side turnaround of Colby (toon).",
+      "descriptor": "assets/colby.toon.turnaround/asset.json",
+      "format": "png+json",
+      "hash": "a51298ef0588b9d00a73d93269e67116ae3952b03ffc4ab6223452362a16718f",
+      "id": "colby.toon.turnaround",
+      "license": "CC0-1.0",
+      "name": "Colby: toon turnaround",
+      "palette": [
+        "#e8963c",
+        "#c76a1f",
+        "#fbe5c8",
+        "#f0a0a0",
+        "#8fc04a",
+        "#e88a8a",
+        "#e0392b",
+        "#f4d12e",
+        "#1a1a1a"
+      ],
+      "preview": "assets/colby.toon.turnaround/preview.png",
+      "size": {
+        "h": 738,
+        "w": 1133
+      },
+      "tags": [
+        "character:colby",
+        "generator:mock",
+        "quality:placeholder",
+        "role:hero",
+        "species:cat",
+        "style:cartoon-vector"
+      ],
+      "type": "character",
+      "version": "1.0.0"
+    },
+    {
+      "author": "bsommers",
+      "bytes": 2064146,
+      "description": "Reference turnaround (front and side) of Perring Parkway Pete: gaunt feral charcoal rat with red eyes, foam drool, scrap-plate chest armour and long scaly tail. Same house toon style as Super Colby.",
+      "descriptor": "assets/perring-parkway-pete.toon-turnaround/asset.json",
+      "format": "jpeg+json",
+      "hash": "e6dc6d12bad1f27a768fc81731a66687a0fb7777f532d69fffce525967a6719f",
+      "id": "perring-parkway-pete.toon-turnaround",
+      "license": "CC0-1.0",
+      "name": "Perring Parkway Pete: toon front/side turnaround",
+      "palette": [
+        "#4a423b",
+        "#3a342f",
+        "#a86a68",
+        "#e0262e",
+        "#3b3d3a",
+        "#1a1a1a",
+        "#f1ead8"
+      ],
+      "preview": "assets/perring-parkway-pete.toon-turnaround/turnaround.jpeg",
+      "size": {
+        "h": 1792,
+        "w": 2400
+      },
+      "tags": [
+        "character:pete",
+        "role:villain",
+        "species:rat",
+        "style:cartoon-vector",
+        "view:turnaround"
+      ],
+      "type": "character",
+      "version": "0.1.0"
+    },
+    {
+      "author": "bsommers",
+      "bytes": 39220,
+      "description": "In-game billboard sprite with mip chain 256/128/64/32 px (mips.png).",
+      "descriptor": "assets/perring-parkway-pete.toon.billboard/asset.json",
+      "format": "png+json",
+      "hash": "1850eb0357e79c6f2e91797a5ce69d8b483392050af40301a8fbd95391390f0f",
+      "id": "perring-parkway-pete.toon.billboard",
+      "license": "CC0-1.0",
+      "name": "Perring Parkway Pete: toon billboard",
+      "palette": [
+        "#4a423b",
+        "#3a342f",
+        "#a86a68",
+        "#e0262e",
+        "#3b3d3a",
+        "#f1ead8",
+        "#1a1a1a"
+      ],
+      "preview": "assets/perring-parkway-pete.toon.billboard/preview.png",
+      "size": {
+        "h": 320,
+        "w": 256
+      },
+      "tags": [
+        "character:perring-parkway-pete",
+        "generator:mock",
+        "quality:placeholder",
+        "role:villain",
+        "species:rat",
+        "style:cartoon-vector"
+      ],
+      "type": "sprite",
+      "version": "1.0.0"
+    },
+    {
+      "author": "bsommers",
+      "bytes": 47333,
+      "description": "Expression sheet (snarl, sneer, laugh, angry).",
+      "descriptor": "assets/perring-parkway-pete.toon.expressions/asset.json",
+      "format": "png+json",
+      "hash": "6ea3874b06955819ea3d6f535d79a2eb3a035d87ce781904e2702b8c551db3da",
+      "id": "perring-parkway-pete.toon.expressions",
+      "license": "CC0-1.0",
+      "name": "Perring Parkway Pete: toon expressions",
+      "palette": [
+        "#4a423b",
+        "#3a342f",
+        "#a86a68",
+        "#e0262e",
+        "#3b3d3a",
+        "#f1ead8",
+        "#1a1a1a"
+      ],
+      "preview": "assets/perring-parkway-pete.toon.expressions/preview.png",
+      "size": {
+        "h": 512,
+        "w": 768
+      },
+      "tags": [
+        "character:perring-parkway-pete",
+        "generator:mock",
+        "quality:placeholder",
+        "role:villain",
+        "species:rat",
+        "style:cartoon-vector"
+      ],
+      "type": "character",
+      "version": "1.0.0"
+    },
+    {
+      "author": "bsommers",
+      "bytes": 43249,
+      "description": "Pose sheet (idle, run, jump, celebrate).",
+      "descriptor": "assets/perring-parkway-pete.toon.pose-sheet/asset.json",
+      "format": "png+json",
+      "hash": "8a32780ec6f40354802ff69319668c750ea45697562e788a0fb56f8fc9e6d265",
+      "id": "perring-parkway-pete.toon.pose-sheet",
+      "license": "CC0-1.0",
+      "name": "Perring Parkway Pete: toon pose sheet",
+      "palette": [
+        "#4a423b",
+        "#3a342f",
+        "#a86a68",
+        "#e0262e",
+        "#3b3d3a",
+        "#f1ead8",
+        "#1a1a1a"
+      ],
+      "preview": "assets/perring-parkway-pete.toon.pose-sheet/preview.png",
+      "size": {
+        "h": 512,
+        "w": 768
+      },
+      "tags": [
+        "character:perring-parkway-pete",
+        "generator:mock",
+        "quality:placeholder",
+        "role:villain",
+        "species:rat",
+        "style:cartoon-vector"
+      ],
+      "type": "character",
+      "version": "1.0.0"
+    },
+    {
+      "author": "bsommers",
+      "bytes": 64285,
+      "description": "Front and side turnaround of Perring Parkway Pete (toon).",
+      "descriptor": "assets/perring-parkway-pete.toon.turnaround/asset.json",
+      "format": "png+json",
+      "hash": "b796da0d7ba2ab46118f20294738c80905021b5661b3abf016b44ac37301ca5a",
+      "id": "perring-parkway-pete.toon.turnaround",
+      "license": "CC0-1.0",
+      "name": "Perring Parkway Pete: toon turnaround",
+      "palette": [
+        "#4a423b",
+        "#3a342f",
+        "#a86a68",
+        "#e0262e",
+        "#3b3d3a",
+        "#f1ead8",
+        "#1a1a1a"
+      ],
+      "preview": "assets/perring-parkway-pete.toon.turnaround/preview.png",
+      "size": {
+        "h": 608,
+        "w": 1145
+      },
+      "tags": [
+        "character:perring-parkway-pete",
+        "generator:mock",
+        "quality:placeholder",
+        "role:villain",
+        "species:rat",
+        "style:cartoon-vector"
+      ],
+      "type": "character",
+      "version": "1.0.0"
+    },
+    {
+      "author": "bsommers",
+      "bytes": 1519034,
+      "description": "Reference turnaround (front and side) of Super Colby: chubby orange tabby in blue shirt with a C shield and orange cape. House toon style: black outline, flat cel fills.",
+      "descriptor": "assets/super-colby.toon-turnaround/asset.json",
+      "format": "jpeg+json",
+      "hash": "23718cac0749d57e279e20979bd3f32abfdd551fd69a1fb77e8c36190aa0fea2",
+      "id": "super-colby.toon-turnaround",
+      "license": "CC0-1.0",
+      "name": "Super Colby: toon front/side turnaround",
+      "palette": [
+        "#e8963c",
+        "#c76a1f",
+        "#fbe5c8",
+        "#3f77bd",
+        "#e0392b",
+        "#f4d12e",
+        "#f26a10",
+        "#1a1a1a",
+        "#8fc04a"
+      ],
+      "preview": "assets/super-colby.toon-turnaround/turnaround.jpeg",
+      "size": {
+        "h": 1792,
+        "w": 2400
+      },
+      "tags": [
+        "character:colby",
+        "character:super-colby",
+        "role:hero",
+        "species:cat",
+        "style:cartoon-vector",
+        "view:turnaround"
+      ],
+      "type": "character",
+      "version": "0.1.0"
+    }
+  ],
+  "counts": {
+    "byType": {
+      "character": 8,
+      "sprite": 2
+    },
+    "total": 10
+  },
+  "formatVersion": 1,
+  "library": {
+    "description": "Reusable character art for the Colby/Pete universe: turnaround sheets, bibles, prompts, billboards in several styles",
+    "hash": "4a5ea3398ef5744ef0db3bcd9482cc1c1bda5d6f4cfb608470302e2d9924e822",
+    "license": "CC0-1.0",
+    "name": "character-library",
+    "tags": [
+      "style:cartoon-vector",
+      "universe:colby"
+    ],
+    "version": "0.1.0"
+  }
+}

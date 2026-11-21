@@ -1,0 +1,298 @@
+{
+  "pass": false,
+  "summary": "9/10 items pass",
+  "items": [
+    {
+      "label": "expression-snarl",
+      "kind": "expression",
+      "checks": [
+        {
+          "name": "palette",
+          "rows": [
+            {
+              "role": "fur",
+              "want": "#4a423b",
+              "nearest": "#4a423b",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "shade",
+              "want": "#3a342f",
+              "nearest": "#4a423b",
+              "dist": 24.4,
+              "ok": true
+            },
+            {
+              "role": "skin",
+              "want": "#a86a68",
+              "nearest": "#a86a68",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "eyes",
+              "want": "#e0262e",
+              "nearest": "#e0262e",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "armor",
+              "want": "#3b3d3a",
+              "nearest": "#4a423b",
+              "dist": 15.8,
+              "ok": true
+            },
+            {
+              "role": "tooth",
+              "want": "#f1ead8",
+              "nearest": "#aaa49c",
+              "dist": 116.4,
+              "ok": false
+            },
+            {
+              "role": "outline",
+              "want": "#1a1a1a",
+              "nearest": "#1a1a1a",
+              "dist": 0,
+              "ok": true
+            }
+          ],
+          "coverage": 0.857,
+          "pixelCoverage": 0.997,
+          "pass": true,
+          "detail": "6/7 bible colours found (need 60%), 100% of pixels on-palette (need 75%)"
+        },
+        {
+          "name": "size-anchor",
+          "fill": 0.828,
+          "footY": 0.961,
+          "centreX": 0.5,
+          "pass": true,
+          "detail": "fill 0.83, feet at 0.96, centre 0.50"
+        }
+      ],
+      "pass": true
+    },
+    {
+      "label": "expression-sneer",
+      "kind": "expression",
+      "checks": [
+        {
+          "name": "palette",
+          "rows": [
+            {
+              "role": "fur",
+              "want": "#4a423b",
+              "nearest": "#4a423b",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "shade",
+              "want": "#3a342f",
+              "nearest": "#4a423b",
+              "dist": 24.4,
+              "ok": true
+            },
+            {
+              "role": "skin",
+              "want": "#a86a68",
+              "nearest": "#a86a68",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "eyes",
+              "want": "#e0262e",
+              "nearest": "#e0262e",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "armor",
+              "want": "#3b3d3a",
+              "nearest": "#4a423b",
+              "dist": 15.8,
+              "ok": true
+            },
+            {
+              "role": "tooth",
+              "want": "#f1ead8",
+              "nearest": "#aaa39c",
+              "dist": 117,
+              "ok": false
+            },
+            {
+              "role": "outline",
+              "want": "#1a1a1a",
+              "nearest": "#1a1a1a",
+              "dist": 0,
+              "ok": true
+            }
+          ],
+          "coverage": 0.857,
+          "pixelCoverage": 0.997,
+          "pass": true,
+          "detail": "6/7 bible colours found (need 60%), 100% of pixels on-palette (need 75%)"
+        },
+        {
+          "name": "size-anchor",
+          "fill": 0.828,
+          "footY": 0.961,
+          "centreX": 0.5,
+          "pass": true,
+          "detail": "fill 0.83, feet at 0.96, centre 0.50"
+        }
+      ],
+      "pass": true
+    },
+    {
+      "label": "expression-laugh",
+      "kind": "expression",
+      "checks": [
+        {
+          "name": "palette",
+          "rows": [
+            {
+              "role": "fur",
+              "want": "#4a423b",
+              "nearest": "#3b3d3a",
+              "dist": 15.8,
+              "ok": true
+            },
+            {
+              "role": "shade",
+              "want": "#3a342f",
+              "nearest": "#3b3d3a",
+              "dist": 14.2,
+              "ok": true
+            },
+            {
+              "role": "skin",
+              "want": "#a86a68",
+              "nearest": "#a86a68",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "eyes",
+              "want": "#e0262e",
+              "nearest": "#e0262e",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "armor",
+              "want": "#3b3d3a",
+              "nearest": "#3b3d3a",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "tooth",
+              "want": "#f1ead8",
+              "nearest": "#aaa39c",
+              "dist": 117,
+              "ok": false
+            },
+            {
+              "role": "outline",
+              "want": "#1a1a1a",
+              "nearest": "#1a1a1a",
+              "dist": 0,
+              "ok": true
+            }
+          ],
+          "coverage": 0.857,
+          "pixelCoverage": 0.997,
+          "pass": true,
+          "detail": "6/7 bible colours found (need 60%), 100% of pixels on-palette (need 75%)"
+        },
+        {
+          "name": "size-anchor",
+          "fill": 0.828,
+          "footY": 0.961,
+          "centreX": 0.5,
+          "pass": true,
+          "detail": "fill 0.83, feet at 0.96, centre 0.50"
+        }
+      ],
+      "pass": true
+    },
+    {
+      "label": "expression-angry",
+      "kind": "expression",
+      "checks": [
+        {
+          "name": "palette",
+          "rows": [
+            {
+              "role": "fur",
+              "want": "#4a423b",
+              "nearest": "#4a423b",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "shade",
+              "want": "#3a342f",
+              "nearest": "#4a423b",
+              "dist": 24.4,
+              "ok": true
+            },
+            {
+              "role": "skin",
+              "want": "#a86a68",
+              "nearest": "#a86a68",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "eyes",
+              "want": "#e0262e",
+              "nearest": "#e0262e",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "armor",
+              "want": "#3b3d3a",
+              "nearest": "#4a423b",
+              "dist": 15.8,
+              "ok": true
+            },
+            {
+              "role": "tooth",
+              "want": "#f1ead8",
+              "nearest": "#aaa49c",
+              "dist": 116.4,
+              "ok": false
+            },
+            {
+              "role": "outline",
+              "want": "#1a1a1a",
+              "nearest": "#1a1a1a",
+              "dist": 0,
+              "ok": true
+            }
+          ],
+          "coverage": 0.857,
+          "pixelCoverage": 0.997,
+          "pass": true,
+          "detail": "6/7 bible colours found (need 60%), 100% of pixels on-palette (need 75%)"
+        },
+        {
+          "name": "size-anchor",
+          "fill": 0.828,
+          "footY": 0.961,
+          "centreX": 0.5,
+          "pass": true,
+          "detail": "fill 0.83, feet at 0.96, centre 0.50"
+        }
+      ],
+      "pass": true
+    }
+  ]
+}

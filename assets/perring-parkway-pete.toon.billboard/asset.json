@@ -1,0 +1,66 @@
+{
+  "author": "bsommers",
+  "description": "In-game billboard sprite with mip chain 256/128/64/32 px (mips.png).",
+  "files": [
+    {
+      "bytes": 1186,
+      "path": "bible.json",
+      "sha256": "90ada07c8423e3c5f41cc7b6adc7e56cd54a5685b6865f78d4f2e0ce5053a520"
+    },
+    {
+      "bytes": 13799,
+      "path": "billboard.png",
+      "sha256": "57d2a768f05cc7be70bc82ce31ecd04dab28a184750c0ee0dd8307423435484d"
+    },
+    {
+      "bytes": 20565,
+      "path": "mips.png",
+      "sha256": "e6fe78c6169cdf30baaa0398ff67db16796bc4c8af76466076bd83db80cfa9e3"
+    },
+    {
+      "bytes": 1527,
+      "path": "prompts.json",
+      "sha256": "18e1f8a52afab9b73bd9d2a2dabecfd1c5522f267dea61aaf1aa5c0cb5f1eb33"
+    },
+    {
+      "bytes": 2143,
+      "path": "verdict.json",
+      "sha256": "3bfb247cad55bc3f5ac8be6c259171b8f9cdd124261014c0c1e786417b5445ad"
+    }
+  ],
+  "format": "png+json",
+  "hash": "1850eb0357e79c6f2e91797a5ce69d8b483392050af40301a8fbd95391390f0f",
+  "id": "perring-parkway-pete.toon.billboard",
+  "license": "CC0-1.0",
+  "name": "Perring Parkway Pete: toon billboard",
+  "palette": [
+    "#4a423b",
+    "#3a342f",
+    "#a86a68",
+    "#e0262e",
+    "#3b3d3a",
+    "#f1ead8",
+    "#1a1a1a"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawedracer",
+    "generator": "mock-procedural/1.0 (toon)",
+    "note": "bible 2f419930afaddf47; prompts 9652764fec20fc94; seeds 2; verdict fail",
+    "source": "char-pipeline 1.0"
+  },
+  "size": {
+    "h": 320,
+    "w": 256
+  },
+  "tags": [
+    "character:perring-parkway-pete",
+    "generator:mock",
+    "quality:placeholder",
+    "role:villain",
+    "species:rat",
+    "style:cartoon-vector"
+  ],
+  "type": "sprite",
+  "version": "1.0.0"
+}

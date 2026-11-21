@@ -1,0 +1,24 @@
+[
+  {
+    "label": "turnaround",
+    "prompt": "Colby, a cat (orange tabby), hero character, chubby, round, upright; big head, small paws. personality: plucky jungle explorer who hops across Perring Parkway. mood: cheerful, curious, brave. colours: fur #e8963c, stripes #c76a1f, cream #fbe5c8, ear #f0a0a0, eyes #8fc04a, nose #e88a8a, scarf #e0392b, goggles #f4d12e; outline #1a1a1a. markings: darker orange stripes on forehead, cheeks, legs and flanks; ringed tail with cream tip; cream muzzle, chest-belly patch and paw tips. wearing: jungle explorer vest and pith helmet; red scarf; pilot goggles pushed up on the forehead when racing. props: rope coil; tuna can. must keep: pink inner ears; big green eyes; cream belly patch; ringed tail with cream tip. shot: character turnaround sheet: front view and side view side by side, same height, feet on a shared baseline, plain flat warm grey background, captions \"Front View\" and \"Side View\". style: clean uniform near-black outline, closed shapes, flat cel fills with one soft shade tone, a few hard-edged accent strokes, chubby readable proportions, no gradients on the character.",
+    "negative": "existing superhero logos, realistic anatomy in toon mode, blood or gore, photorealistic, painterly, gradients on character, sketchy lines, text watermark, deformed, extra fingers, inconsistent colours, cropped, text artefacts",
+    "meta": {
+      "composer": "1.0.0",
+      "bible": "colby",
+      "style": "toon",
+      "shot": "turnaround",
+      "expression": null,
+      "pose": null,
+      "variant": null,
+      "size": [
+        1200,
+        896
+      ],
+      "bibleHash": "cfb4af41e3f112f5",
+      "promptHash": "c9134f33ba939e43"
+    },
+    "model": "mock-procedural/1.0 (toon)",
+    "seed": 1
+  }
+]

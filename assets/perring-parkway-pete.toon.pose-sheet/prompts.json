@@ -1,0 +1,90 @@
+[
+  {
+    "label": "pose-idle",
+    "prompt": "Perring Parkway Pete, a rat (feral, brown), villain character, gaunt, hunched, long-limbed. personality: road-rage rat who rules Perring Parkway. mood: menacing, rabid, smug villain. colours: fur #4a423b, shade #3a342f, skin #a86a68, eyes #e0262e, armor #3b3d3a, tooth #f1ead8; outline #1a1a1a. markings: mangy tufted fur; torn belly fur; long scaly pink tail with ring ridges. wearing: dark scrap-plate chest armour with shoulder straps. must keep: glowing red eyes; buck teeth; huge round pink-mauve ears; long pointed muzzle with long whiskers; hunched back. pose: idle. shot: full-body pose, plain flat background, feet visible. style: clean uniform near-black outline, closed shapes, flat cel fills with one soft shade tone, a few hard-edged accent strokes, chubby readable proportions, no gradients on the character.",
+    "negative": "cuteness softening of the face, realistic gore, photorealistic, painterly, gradients on character, sketchy lines, text watermark, deformed, extra fingers, inconsistent colours, cropped, text artefacts",
+    "meta": {
+      "composer": "1.0.0",
+      "bible": "perring-parkway-pete",
+      "style": "toon",
+      "shot": "pose",
+      "expression": null,
+      "pose": "idle",
+      "variant": null,
+      "size": [
+        512,
+        640
+      ],
+      "bibleHash": "2f419930afaddf47",
+      "promptHash": "655bf3399ba821b4"
+    },
+    "model": "mock-procedural/1.0 (toon)",
+    "seed": 7
+  },
+  {
+    "label": "pose-run",
+    "prompt": "Perring Parkway Pete, a rat (feral, brown), villain character, gaunt, hunched, long-limbed. personality: road-rage rat who rules Perring Parkway. mood: menacing, rabid, smug villain. colours: fur #4a423b, shade #3a342f, skin #a86a68, eyes #e0262e, armor #3b3d3a, tooth #f1ead8; outline #1a1a1a. markings: mangy tufted fur; torn belly fur; long scaly pink tail with ring ridges. wearing: dark scrap-plate chest armour with shoulder straps. must keep: glowing red eyes; buck teeth; huge round pink-mauve ears; long pointed muzzle with long whiskers; hunched back. pose: run. shot: full-body pose, plain flat background, feet visible. style: clean uniform near-black outline, closed shapes, flat cel fills with one soft shade tone, a few hard-edged accent strokes, chubby readable proportions, no gradients on the character.",
+    "negative": "cuteness softening of the face, realistic gore, photorealistic, painterly, gradients on character, sketchy lines, text watermark, deformed, extra fingers, inconsistent colours, cropped, text artefacts",
+    "meta": {
+      "composer": "1.0.0",
+      "bible": "perring-parkway-pete",
+      "style": "toon",
+      "shot": "pose",
+      "expression": null,
+      "pose": "run",
+      "variant": null,
+      "size": [
+        512,
+        640
+      ],
+      "bibleHash": "2f419930afaddf47",
+      "promptHash": "b37c5315d32462b4"
+    },
+    "model": "mock-procedural/1.0 (toon)",
+    "seed": 8
+  },
+  {
+    "label": "pose-jump",
+    "prompt": "Perring Parkway Pete, a rat (feral, brown), villain character, gaunt, hunched, long-limbed. personality: road-rage rat who rules Perring Parkway. mood: menacing, rabid, smug villain. colours: fur #4a423b, shade #3a342f, skin #a86a68, eyes #e0262e, armor #3b3d3a, tooth #f1ead8; outline #1a1a1a. markings: mangy tufted fur; torn belly fur; long scaly pink tail with ring ridges. wearing: dark scrap-plate chest armour with shoulder straps. must keep: glowing red eyes; buck teeth; huge round pink-mauve ears; long pointed muzzle with long whiskers; hunched back. pose: jump. shot: full-body pose, plain flat background, feet visible. style: clean uniform near-black outline, closed shapes, flat cel fills with one soft shade tone, a few hard-edged accent strokes, chubby readable proportions, no gradients on the character.",
+    "negative": "cuteness softening of the face, realistic gore, photorealistic, painterly, gradients on character, sketchy lines, text watermark, deformed, extra fingers, inconsistent colours, cropped, text artefacts",
+    "meta": {
+      "composer": "1.0.0",
+      "bible": "perring-parkway-pete",
+      "style": "toon",
+      "shot": "pose",
+      "expression": null,
+      "pose": "jump",
+      "variant": null,
+      "size": [
+        512,
+        640
+      ],
+      "bibleHash": "2f419930afaddf47",
+      "promptHash": "25889f91724e763c"
+    },
+    "model": "mock-procedural/1.0 (toon)",
+    "seed": 9
+  },
+  {
+    "label": "pose-celebrate",
+    "prompt": "Perring Parkway Pete, a rat (feral, brown), villain character, gaunt, hunched, long-limbed. personality: road-rage rat who rules Perring Parkway. mood: menacing, rabid, smug villain. colours: fur #4a423b, shade #3a342f, skin #a86a68, eyes #e0262e, armor #3b3d3a, tooth #f1ead8; outline #1a1a1a. markings: mangy tufted fur; torn belly fur; long scaly pink tail with ring ridges. wearing: dark scrap-plate chest armour with shoulder straps. must keep: glowing red eyes; buck teeth; huge round pink-mauve ears; long pointed muzzle with long whiskers; hunched back. pose: celebrate. shot: full-body pose, plain flat background, feet visible. style: clean uniform near-black outline, closed shapes, flat cel fills with one soft shade tone, a few hard-edged accent strokes, chubby readable proportions, no gradients on the character.",
+    "negative": "cuteness softening of the face, realistic gore, photorealistic, painterly, gradients on character, sketchy lines, text watermark, deformed, extra fingers, inconsistent colours, cropped, text artefacts",
+    "meta": {
+      "composer": "1.0.0",
+      "bible": "perring-parkway-pete",
+      "style": "toon",
+      "shot": "pose",
+      "expression": null,
+      "pose": "celebrate",
+      "variant": null,
+      "size": [
+        512,
+        640
+      ],
+      "bibleHash": "2f419930afaddf47",
+      "promptHash": "22955e790cf799f1"
+    },
+    "model": "mock-procedural/1.0 (toon)",
+    "seed": 10
+  }
+]

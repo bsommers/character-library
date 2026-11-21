@@ -1,0 +1,63 @@
+{
+  "author": "bsommers",
+  "description": "Pose sheet (idle, hop, run, splat-free-dodge, celebrate).",
+  "files": [
+    {
+      "bytes": 1573,
+      "path": "bible.json",
+      "sha256": "eb3c5e165f9862133752565c641c40b2a493a0872e60f93b8d1bc5a75e91a511"
+    },
+    {
+      "bytes": 38184,
+      "path": "pose-sheet.png",
+      "sha256": "88bd66c81da0af5f89b228df6d0d31019b6f389016cf76376255a83d5a289eca"
+    },
+    {
+      "bytes": 8257,
+      "path": "prompts.json",
+      "sha256": "4821c40fa0f7989294998dcddf690c01f631c9ede9698e4e71b780feaa2ef81b"
+    },
+    {
+      "bytes": 11079,
+      "path": "verdict.json",
+      "sha256": "9deb217f029b26351e23d0da2b0935b2bb0888ce81508b10cccb4a8fdaedec06"
+    }
+  ],
+  "format": "png+json",
+  "hash": "815270262b9b6bde12055b4d6fd1f744591a435278a97713426a3802f9534105",
+  "id": "colby.toon.pose-sheet",
+  "license": "CC0-1.0",
+  "name": "Colby: toon pose sheet",
+  "palette": [
+    "#e8963c",
+    "#c76a1f",
+    "#fbe5c8",
+    "#f0a0a0",
+    "#8fc04a",
+    "#e88a8a",
+    "#e0392b",
+    "#f4d12e",
+    "#1a1a1a"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawedracer",
+    "generator": "mock-procedural/1.0 (toon)",
+    "note": "bible cfb4af41e3f112f5; prompts c97615b1d908fb64,50af3a31672cd814,3a5caba5f21d371c,55cf4a195e38f6c6,b8e582d4d676edd4; seeds 9,10,11,12,13; verdict pass",
+    "source": "char-pipeline 1.0"
+  },
+  "size": {
+    "h": 512,
+    "w": 768
+  },
+  "tags": [
+    "character:colby",
+    "generator:mock",
+    "quality:placeholder",
+    "role:hero",
+    "species:cat",
+    "style:cartoon-vector"
+  ],
+  "type": "character",
+  "version": "1.0.0"
+}

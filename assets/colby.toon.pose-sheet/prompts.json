@@ -1,0 +1,112 @@
+[
+  {
+    "label": "pose-idle",
+    "prompt": "Colby, a cat (orange tabby), hero character, chubby, round, upright; big head, small paws. personality: plucky jungle explorer who hops across Perring Parkway. mood: cheerful, curious, brave. colours: fur #e8963c, stripes #c76a1f, cream #fbe5c8, ear #f0a0a0, eyes #8fc04a, nose #e88a8a, scarf #e0392b, goggles #f4d12e; outline #1a1a1a. markings: darker orange stripes on forehead, cheeks, legs and flanks; ringed tail with cream tip; cream muzzle, chest-belly patch and paw tips. wearing: jungle explorer vest and pith helmet; red scarf; pilot goggles pushed up on the forehead when racing. props: rope coil; tuna can. must keep: pink inner ears; big green eyes; cream belly patch; ringed tail with cream tip. pose: idle. shot: full-body pose, plain flat background, feet visible. style: clean uniform near-black outline, closed shapes, flat cel fills with one soft shade tone, a few hard-edged accent strokes, chubby readable proportions, no gradients on the character.",
+    "negative": "existing superhero logos, realistic anatomy in toon mode, blood or gore, photorealistic, painterly, gradients on character, sketchy lines, text watermark, deformed, extra fingers, inconsistent colours, cropped, text artefacts",
+    "meta": {
+      "composer": "1.0.0",
+      "bible": "colby",
+      "style": "toon",
+      "shot": "pose",
+      "expression": null,
+      "pose": "idle",
+      "variant": null,
+      "size": [
+        512,
+        640
+      ],
+      "bibleHash": "cfb4af41e3f112f5",
+      "promptHash": "c97615b1d908fb64"
+    },
+    "model": "mock-procedural/1.0 (toon)",
+    "seed": 9
+  },
+  {
+    "label": "pose-hop",
+    "prompt": "Colby, a cat (orange tabby), hero character, chubby, round, upright; big head, small paws. personality: plucky jungle explorer who hops across Perring Parkway. mood: cheerful, curious, brave. colours: fur #e8963c, stripes #c76a1f, cream #fbe5c8, ear #f0a0a0, eyes #8fc04a, nose #e88a8a, scarf #e0392b, goggles #f4d12e; outline #1a1a1a. markings: darker orange stripes on forehead, cheeks, legs and flanks; ringed tail with cream tip; cream muzzle, chest-belly patch and paw tips. wearing: jungle explorer vest and pith helmet; red scarf; pilot goggles pushed up on the forehead when racing. props: rope coil; tuna can. must keep: pink inner ears; big green eyes; cream belly patch; ringed tail with cream tip. pose: hop. shot: full-body pose, plain flat background, feet visible. style: clean uniform near-black outline, closed shapes, flat cel fills with one soft shade tone, a few hard-edged accent strokes, chubby readable proportions, no gradients on the character.",
+    "negative": "existing superhero logos, realistic anatomy in toon mode, blood or gore, photorealistic, painterly, gradients on character, sketchy lines, text watermark, deformed, extra fingers, inconsistent colours, cropped, text artefacts",
+    "meta": {
+      "composer": "1.0.0",
+      "bible": "colby",
+      "style": "toon",
+      "shot": "pose",
+      "expression": null,
+      "pose": "hop",
+      "variant": null,
+      "size": [
+        512,
+        640
+      ],
+      "bibleHash": "cfb4af41e3f112f5",
+      "promptHash": "50af3a31672cd814"
+    },
+    "model": "mock-procedural/1.0 (toon)",
+    "seed": 10
+  },
+  {
+    "label": "pose-run",
+    "prompt": "Colby, a cat (orange tabby), hero character, chubby, round, upright; big head, small paws. personality: plucky jungle explorer who hops across Perring Parkway. mood: cheerful, curious, brave. colours: fur #e8963c, stripes #c76a1f, cream #fbe5c8, ear #f0a0a0, eyes #8fc04a, nose #e88a8a, scarf #e0392b, goggles #f4d12e; outline #1a1a1a. markings: darker orange stripes on forehead, cheeks, legs and flanks; ringed tail with cream tip; cream muzzle, chest-belly patch and paw tips. wearing: jungle explorer vest and pith helmet; red scarf; pilot goggles pushed up on the forehead when racing. props: rope coil; tuna can. must keep: pink inner ears; big green eyes; cream belly patch; ringed tail with cream tip. pose: run. shot: full-body pose, plain flat background, feet visible. style: clean uniform near-black outline, closed shapes, flat cel fills with one soft shade tone, a few hard-edged accent strokes, chubby readable proportions, no gradients on the character.",
+    "negative": "existing superhero logos, realistic anatomy in toon mode, blood or gore, photorealistic, painterly, gradients on character, sketchy lines, text watermark, deformed, extra fingers, inconsistent colours, cropped, text artefacts",
+    "meta": {
+      "composer": "1.0.0",
+      "bible": "colby",
+      "style": "toon",
+      "shot": "pose",
+      "expression": null,
+      "pose": "run",
+      "variant": null,
+      "size": [
+        512,
+        640
+      ],
+      "bibleHash": "cfb4af41e3f112f5",
+      "promptHash": "3a5caba5f21d371c"
+    },
+    "model": "mock-procedural/1.0 (toon)",
+    "seed": 11
+  },
+  {
+    "label": "pose-splat-free-dodge",
+    "prompt": "Colby, a cat (orange tabby), hero character, chubby, round, upright; big head, small paws. personality: plucky jungle explorer who hops across Perring Parkway. mood: cheerful, curious, brave. colours: fur #e8963c, stripes #c76a1f, cream #fbe5c8, ear #f0a0a0, eyes #8fc04a, nose #e88a8a, scarf #e0392b, goggles #f4d12e; outline #1a1a1a. markings: darker orange stripes on forehead, cheeks, legs and flanks; ringed tail with cream tip; cream muzzle, chest-belly patch and paw tips. wearing: jungle explorer vest and pith helmet; red scarf; pilot goggles pushed up on the forehead when racing. props: rope coil; tuna can. must keep: pink inner ears; big green eyes; cream belly patch; ringed tail with cream tip. pose: splat-free-dodge. shot: full-body pose, plain flat background, feet visible. style: clean uniform near-black outline, closed shapes, flat cel fills with one soft shade tone, a few hard-edged accent strokes, chubby readable proportions, no gradients on the character.",
+    "negative": "existing superhero logos, realistic anatomy in toon mode, blood or gore, photorealistic, painterly, gradients on character, sketchy lines, text watermark, deformed, extra fingers, inconsistent colours, cropped, text artefacts",
+    "meta": {
+      "composer": "1.0.0",
+      "bible": "colby",
+      "style": "toon",
+      "shot": "pose",
+      "expression": null,
+      "pose": "splat-free-dodge",
+      "variant": null,
+      "size": [
+        512,
+        640
+      ],
+      "bibleHash": "cfb4af41e3f112f5",
+      "promptHash": "55cf4a195e38f6c6"
+    },
+    "model": "mock-procedural/1.0 (toon)",
+    "seed": 12
+  },
+  {
+    "label": "pose-celebrate",
+    "prompt": "Colby, a cat (orange tabby), hero character, chubby, round, upright; big head, small paws. personality: plucky jungle explorer who hops across Perring Parkway. mood: cheerful, curious, brave. colours: fur #e8963c, stripes #c76a1f, cream #fbe5c8, ear #f0a0a0, eyes #8fc04a, nose #e88a8a, scarf #e0392b, goggles #f4d12e; outline #1a1a1a. markings: darker orange stripes on forehead, cheeks, legs and flanks; ringed tail with cream tip; cream muzzle, chest-belly patch and paw tips. wearing: jungle explorer vest and pith helmet; red scarf; pilot goggles pushed up on the forehead when racing. props: rope coil; tuna can. must keep: pink inner ears; big green eyes; cream belly patch; ringed tail with cream tip. pose: celebrate. shot: full-body pose, plain flat background, feet visible. style: clean uniform near-black outline, closed shapes, flat cel fills with one soft shade tone, a few hard-edged accent strokes, chubby readable proportions, no gradients on the character.",
+    "negative": "existing superhero logos, realistic anatomy in toon mode, blood or gore, photorealistic, painterly, gradients on character, sketchy lines, text watermark, deformed, extra fingers, inconsistent colours, cropped, text artefacts",
+    "meta": {
+      "composer": "1.0.0",
+      "bible": "colby",
+      "style": "toon",
+      "shot": "pose",
+      "expression": null,
+      "pose": "celebrate",
+      "variant": null,
+      "size": [
+        512,
+        640
+      ],
+      "bibleHash": "cfb4af41e3f112f5",
+      "promptHash": "b8e582d4d676edd4"
+    },
+    "model": "mock-procedural/1.0 (toon)",
+    "seed": 13
+  }
+]

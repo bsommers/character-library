@@ -1,0 +1,90 @@
+[
+  {
+    "label": "expression-snarl",
+    "prompt": "Perring Parkway Pete, a rat (feral, brown), villain character, gaunt, hunched, long-limbed. personality: road-rage rat who rules Perring Parkway. mood: menacing, rabid, smug villain. colours: fur #4a423b, shade #3a342f, skin #a86a68, eyes #e0262e, armor #3b3d3a, tooth #f1ead8; outline #1a1a1a. markings: mangy tufted fur; torn belly fur; long scaly pink tail with ring ridges. wearing: dark scrap-plate chest armour with shoulder straps. must keep: glowing red eyes; buck teeth; huge round pink-mauve ears; long pointed muzzle with long whiskers; hunched back. expression: snarl. shot: head-and-shoulders expression study, plain flat background. style: clean uniform near-black outline, closed shapes, flat cel fills with one soft shade tone, a few hard-edged accent strokes, chubby readable proportions, no gradients on the character.",
+    "negative": "cuteness softening of the face, realistic gore, photorealistic, painterly, gradients on character, sketchy lines, text watermark, deformed, extra fingers, inconsistent colours, cropped, text artefacts",
+    "meta": {
+      "composer": "1.0.0",
+      "bible": "perring-parkway-pete",
+      "style": "toon",
+      "shot": "expression",
+      "expression": "snarl",
+      "pose": null,
+      "variant": null,
+      "size": [
+        512,
+        512
+      ],
+      "bibleHash": "2f419930afaddf47",
+      "promptHash": "1cc2fce52f82d4d0"
+    },
+    "model": "mock-procedural/1.0 (toon)",
+    "seed": 3
+  },
+  {
+    "label": "expression-sneer",
+    "prompt": "Perring Parkway Pete, a rat (feral, brown), villain character, gaunt, hunched, long-limbed. personality: road-rage rat who rules Perring Parkway. mood: menacing, rabid, smug villain. colours: fur #4a423b, shade #3a342f, skin #a86a68, eyes #e0262e, armor #3b3d3a, tooth #f1ead8; outline #1a1a1a. markings: mangy tufted fur; torn belly fur; long scaly pink tail with ring ridges. wearing: dark scrap-plate chest armour with shoulder straps. must keep: glowing red eyes; buck teeth; huge round pink-mauve ears; long pointed muzzle with long whiskers; hunched back. expression: sneer. shot: head-and-shoulders expression study, plain flat background. style: clean uniform near-black outline, closed shapes, flat cel fills with one soft shade tone, a few hard-edged accent strokes, chubby readable proportions, no gradients on the character.",
+    "negative": "cuteness softening of the face, realistic gore, photorealistic, painterly, gradients on character, sketchy lines, text watermark, deformed, extra fingers, inconsistent colours, cropped, text artefacts",
+    "meta": {
+      "composer": "1.0.0",
+      "bible": "perring-parkway-pete",
+      "style": "toon",
+      "shot": "expression",
+      "expression": "sneer",
+      "pose": null,
+      "variant": null,
+      "size": [
+        512,
+        512
+      ],
+      "bibleHash": "2f419930afaddf47",
+      "promptHash": "f181cd3f50b98844"
+    },
+    "model": "mock-procedural/1.0 (toon)",
+    "seed": 4
+  },
+  {
+    "label": "expression-laugh",
+    "prompt": "Perring Parkway Pete, a rat (feral, brown), villain character, gaunt, hunched, long-limbed. personality: road-rage rat who rules Perring Parkway. mood: menacing, rabid, smug villain. colours: fur #4a423b, shade #3a342f, skin #a86a68, eyes #e0262e, armor #3b3d3a, tooth #f1ead8; outline #1a1a1a. markings: mangy tufted fur; torn belly fur; long scaly pink tail with ring ridges. wearing: dark scrap-plate chest armour with shoulder straps. must keep: glowing red eyes; buck teeth; huge round pink-mauve ears; long pointed muzzle with long whiskers; hunched back. expression: laugh. shot: head-and-shoulders expression study, plain flat background. style: clean uniform near-black outline, closed shapes, flat cel fills with one soft shade tone, a few hard-edged accent strokes, chubby readable proportions, no gradients on the character.",
+    "negative": "cuteness softening of the face, realistic gore, photorealistic, painterly, gradients on character, sketchy lines, text watermark, deformed, extra fingers, inconsistent colours, cropped, text artefacts",
+    "meta": {
+      "composer": "1.0.0",
+      "bible": "perring-parkway-pete",
+      "style": "toon",
+      "shot": "expression",
+      "expression": "laugh",
+      "pose": null,
+      "variant": null,
+      "size": [
+        512,
+        512
+      ],
+      "bibleHash": "2f419930afaddf47",
+      "promptHash": "d4614225571eb488"
+    },
+    "model": "mock-procedural/1.0 (toon)",
+    "seed": 5
+  },
+  {
+    "label": "expression-angry",
+    "prompt": "Perring Parkway Pete, a rat (feral, brown), villain character, gaunt, hunched, long-limbed. personality: road-rage rat who rules Perring Parkway. mood: menacing, rabid, smug villain. colours: fur #4a423b, shade #3a342f, skin #a86a68, eyes #e0262e, armor #3b3d3a, tooth #f1ead8; outline #1a1a1a. markings: mangy tufted fur; torn belly fur; long scaly pink tail with ring ridges. wearing: dark scrap-plate chest armour with shoulder straps. must keep: glowing red eyes; buck teeth; huge round pink-mauve ears; long pointed muzzle with long whiskers; hunched back. expression: angry. shot: head-and-shoulders expression study, plain flat background. style: clean uniform near-black outline, closed shapes, flat cel fills with one soft shade tone, a few hard-edged accent strokes, chubby readable proportions, no gradients on the character.",
+    "negative": "cuteness softening of the face, realistic gore, photorealistic, painterly, gradients on character, sketchy lines, text watermark, deformed, extra fingers, inconsistent colours, cropped, text artefacts",
+    "meta": {
+      "composer": "1.0.0",
+      "bible": "perring-parkway-pete",
+      "style": "toon",
+      "shot": "expression",
+      "expression": "angry",
+      "pose": null,
+      "variant": null,
+      "size": [
+        512,
+        512
+      ],
+      "bibleHash": "2f419930afaddf47",
+      "promptHash": "acedbaf7d8f8a212"
+    },
+    "model": "mock-procedural/1.0 (toon)",
+    "seed": 6
+  }
+]

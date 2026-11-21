@@ -1,0 +1,61 @@
+{
+  "author": "bsommers",
+  "description": "Expression sheet (snarl, sneer, laugh, angry).",
+  "files": [
+    {
+      "bytes": 1186,
+      "path": "bible.json",
+      "sha256": "90ada07c8423e3c5f41cc7b6adc7e56cd54a5685b6865f78d4f2e0ce5053a520"
+    },
+    {
+      "bytes": 32591,
+      "path": "expressions.png",
+      "sha256": "aba33bbae369f7ff33d35bd9c9841a99c28dc9c40874735cc088ebf3cd7adb84"
+    },
+    {
+      "bytes": 6047,
+      "path": "prompts.json",
+      "sha256": "1ad909ed40e9236959033843a0dfeef3eec1d8548a07677a9a40d6fee1eb1185"
+    },
+    {
+      "bytes": 7509,
+      "path": "verdict.json",
+      "sha256": "a34c1dd574922768a3b4c9b8477304ea9ceb7ac7c9b3754f174040fb83ff2c04"
+    }
+  ],
+  "format": "png+json",
+  "hash": "6ea3874b06955819ea3d6f535d79a2eb3a035d87ce781904e2702b8c551db3da",
+  "id": "perring-parkway-pete.toon.expressions",
+  "license": "CC0-1.0",
+  "name": "Perring Parkway Pete: toon expressions",
+  "palette": [
+    "#4a423b",
+    "#3a342f",
+    "#a86a68",
+    "#e0262e",
+    "#3b3d3a",
+    "#f1ead8",
+    "#1a1a1a"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawedracer",
+    "generator": "mock-procedural/1.0 (toon)",
+    "note": "bible 2f419930afaddf47; prompts 1cc2fce52f82d4d0,f181cd3f50b98844,d4614225571eb488,acedbaf7d8f8a212; seeds 3,4,5,6; verdict fail",
+    "source": "char-pipeline 1.0"
+  },
+  "size": {
+    "h": 512,
+    "w": 768
+  },
+  "tags": [
+    "character:perring-parkway-pete",
+    "generator:mock",
+    "quality:placeholder",
+    "role:villain",
+    "species:rat",
+    "style:cartoon-vector"
+  ],
+  "type": "character",
+  "version": "1.0.0"
+}

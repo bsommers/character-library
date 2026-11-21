@@ -1,0 +1,68 @@
+{
+  "author": "bsommers",
+  "description": "In-game billboard sprite with mip chain 256/128/64/32 px (mips.png).",
+  "files": [
+    {
+      "bytes": 1573,
+      "path": "bible.json",
+      "sha256": "eb3c5e165f9862133752565c641c40b2a493a0872e60f93b8d1bc5a75e91a511"
+    },
+    {
+      "bytes": 17789,
+      "path": "billboard.png",
+      "sha256": "dd7ea8d3e82763667a326036c8845706038a107fe02a0fb5fd1e29b9a3984e98"
+    },
+    {
+      "bytes": 28504,
+      "path": "mips.png",
+      "sha256": "d177f91ffe983c372b234bf8b44b6e910d5a9b8df7914f4f1857cbac1cc931cd"
+    },
+    {
+      "bytes": 1685,
+      "path": "prompts.json",
+      "sha256": "e30781c07221d45fec1f4113e1f20b662f5872ffc359e0bb6824d5dea475dd4d"
+    },
+    {
+      "bytes": 2495,
+      "path": "verdict.json",
+      "sha256": "fc80fe3574eb92cee088eaeca5400f6beacf225268b9955b2f8c8645948b12d5"
+    }
+  ],
+  "format": "png+json",
+  "hash": "83c586bdf8e21c07c497f4b595bf968f66662f6e9f60b58e9ea20be13395291e",
+  "id": "colby.toon.billboard",
+  "license": "CC0-1.0",
+  "name": "Colby: toon billboard",
+  "palette": [
+    "#e8963c",
+    "#c76a1f",
+    "#fbe5c8",
+    "#f0a0a0",
+    "#8fc04a",
+    "#e88a8a",
+    "#e0392b",
+    "#f4d12e",
+    "#1a1a1a"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawedracer",
+    "generator": "mock-procedural/1.0 (toon)",
+    "note": "bible cfb4af41e3f112f5; prompts b78ee390747f665d; seeds 2; verdict pass",
+    "source": "char-pipeline 1.0"
+  },
+  "size": {
+    "h": 320,
+    "w": 256
+  },
+  "tags": [
+    "character:colby",
+    "generator:mock",
+    "quality:placeholder",
+    "role:hero",
+    "species:cat",
+    "style:cartoon-vector"
+  ],
+  "type": "sprite",
+  "version": "1.0.0"
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "tools/library/schemas/library.schema.json",
+  "formatVersion": 1,
+  "name": "character-library",
+  "version": "0.1.0",
+  "license": "CC0-1.0",
+  "description": "Reusable character art for the Colby/Pete universe: turnaround sheets, bibles, prompts, billboards in several styles",
+  "tags": [
+    "style:cartoon-vector",
+    "universe:colby"
+  ],
+  "assetTypes": [
+    "character",
+    "sprite",
+    "doc"
+  ],
+  "authors": [
+    "bsommers"
+  ]
+}

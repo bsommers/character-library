@@ -1,0 +1,134 @@
+[
+  {
+    "label": "expression-neutral",
+    "prompt": "Colby, a cat (orange tabby), hero character, chubby, round, upright; big head, small paws. personality: plucky jungle explorer who hops across Perring Parkway. mood: cheerful, curious, brave. colours: fur #e8963c, stripes #c76a1f, cream #fbe5c8, ear #f0a0a0, eyes #8fc04a, nose #e88a8a, scarf #e0392b, goggles #f4d12e; outline #1a1a1a. markings: darker orange stripes on forehead, cheeks, legs and flanks; ringed tail with cream tip; cream muzzle, chest-belly patch and paw tips. wearing: jungle explorer vest and pith helmet; red scarf; pilot goggles pushed up on the forehead when racing. props: rope coil; tuna can. must keep: pink inner ears; big green eyes; cream belly patch; ringed tail with cream tip. expression: neutral. shot: head-and-shoulders expression study, plain flat background. style: clean uniform near-black outline, closed shapes, flat cel fills with one soft shade tone, a few hard-edged accent strokes, chubby readable proportions, no gradients on the character.",
+    "negative": "existing superhero logos, realistic anatomy in toon mode, blood or gore, photorealistic, painterly, gradients on character, sketchy lines, text watermark, deformed, extra fingers, inconsistent colours, cropped, text artefacts",
+    "meta": {
+      "composer": "1.0.0",
+      "bible": "colby",
+      "style": "toon",
+      "shot": "expression",
+      "expression": "neutral",
+      "pose": null,
+      "variant": null,
+      "size": [
+        512,
+        512
+      ],
+      "bibleHash": "cfb4af41e3f112f5",
+      "promptHash": "c9b73c6b6b35b5a5"
+    },
+    "model": "mock-procedural/1.0 (toon)",
+    "seed": 3
+  },
+  {
+    "label": "expression-happy",
+    "prompt": "Colby, a cat (orange tabby), hero character, chubby, round, upright; big head, small paws. personality: plucky jungle explorer who hops across Perring Parkway. mood: cheerful, curious, brave. colours: fur #e8963c, stripes #c76a1f, cream #fbe5c8, ear #f0a0a0, eyes #8fc04a, nose #e88a8a, scarf #e0392b, goggles #f4d12e; outline #1a1a1a. markings: darker orange stripes on forehead, cheeks, legs and flanks; ringed tail with cream tip; cream muzzle, chest-belly patch and paw tips. wearing: jungle explorer vest and pith helmet; red scarf; pilot goggles pushed up on the forehead when racing. props: rope coil; tuna can. must keep: pink inner ears; big green eyes; cream belly patch; ringed tail with cream tip. expression: happy. shot: head-and-shoulders expression study, plain flat background. style: clean uniform near-black outline, closed shapes, flat cel fills with one soft shade tone, a few hard-edged accent strokes, chubby readable proportions, no gradients on the character.",
+    "negative": "existing superhero logos, realistic anatomy in toon mode, blood or gore, photorealistic, painterly, gradients on character, sketchy lines, text watermark, deformed, extra fingers, inconsistent colours, cropped, text artefacts",
+    "meta": {
+      "composer": "1.0.0",
+      "bible": "colby",
+      "style": "toon",
+      "shot": "expression",
+      "expression": "happy",
+      "pose": null,
+      "variant": null,
+      "size": [
+        512,
+        512
+      ],
+      "bibleHash": "cfb4af41e3f112f5",
+      "promptHash": "be679c96614bb97a"
+    },
+    "model": "mock-procedural/1.0 (toon)",
+    "seed": 4
+  },
+  {
+    "label": "expression-scared",
+    "prompt": "Colby, a cat (orange tabby), hero character, chubby, round, upright; big head, small paws. personality: plucky jungle explorer who hops across Perring Parkway. mood: cheerful, curious, brave. colours: fur #e8963c, stripes #c76a1f, cream #fbe5c8, ear #f0a0a0, eyes #8fc04a, nose #e88a8a, scarf #e0392b, goggles #f4d12e; outline #1a1a1a. markings: darker orange stripes on forehead, cheeks, legs and flanks; ringed tail with cream tip; cream muzzle, chest-belly patch and paw tips. wearing: jungle explorer vest and pith helmet; red scarf; pilot goggles pushed up on the forehead when racing. props: rope coil; tuna can. must keep: pink inner ears; big green eyes; cream belly patch; ringed tail with cream tip. expression: scared. shot: head-and-shoulders expression study, plain flat background. style: clean uniform near-black outline, closed shapes, flat cel fills with one soft shade tone, a few hard-edged accent strokes, chubby readable proportions, no gradients on the character.",
+    "negative": "existing superhero logos, realistic anatomy in toon mode, blood or gore, photorealistic, painterly, gradients on character, sketchy lines, text watermark, deformed, extra fingers, inconsistent colours, cropped, text artefacts",
+    "meta": {
+      "composer": "1.0.0",
+      "bible": "colby",
+      "style": "toon",
+      "shot": "expression",
+      "expression": "scared",
+      "pose": null,
+      "variant": null,
+      "size": [
+        512,
+        512
+      ],
+      "bibleHash": "cfb4af41e3f112f5",
+      "promptHash": "a01efa167f92b504"
+    },
+    "model": "mock-procedural/1.0 (toon)",
+    "seed": 5
+  },
+  {
+    "label": "expression-surprised",
+    "prompt": "Colby, a cat (orange tabby), hero character, chubby, round, upright; big head, small paws. personality: plucky jungle explorer who hops across Perring Parkway. mood: cheerful, curious, brave. colours: fur #e8963c, stripes #c76a1f, cream #fbe5c8, ear #f0a0a0, eyes #8fc04a, nose #e88a8a, scarf #e0392b, goggles #f4d12e; outline #1a1a1a. markings: darker orange stripes on forehead, cheeks, legs and flanks; ringed tail with cream tip; cream muzzle, chest-belly patch and paw tips. wearing: jungle explorer vest and pith helmet; red scarf; pilot goggles pushed up on the forehead when racing. props: rope coil; tuna can. must keep: pink inner ears; big green eyes; cream belly patch; ringed tail with cream tip. expression: surprised. shot: head-and-shoulders expression study, plain flat background. style: clean uniform near-black outline, closed shapes, flat cel fills with one soft shade tone, a few hard-edged accent strokes, chubby readable proportions, no gradients on the character.",
+    "negative": "existing superhero logos, realistic anatomy in toon mode, blood or gore, photorealistic, painterly, gradients on character, sketchy lines, text watermark, deformed, extra fingers, inconsistent colours, cropped, text artefacts",
+    "meta": {
+      "composer": "1.0.0",
+      "bible": "colby",
+      "style": "toon",
+      "shot": "expression",
+      "expression": "surprised",
+      "pose": null,
+      "variant": null,
+      "size": [
+        512,
+        512
+      ],
+      "bibleHash": "cfb4af41e3f112f5",
+      "promptHash": "2037b617edcce190"
+    },
+    "model": "mock-procedural/1.0 (toon)",
+    "seed": 6
+  },
+  {
+    "label": "expression-determined",
+    "prompt": "Colby, a cat (orange tabby), hero character, chubby, round, upright; big head, small paws. personality: plucky jungle explorer who hops across Perring Parkway. mood: cheerful, curious, brave. colours: fur #e8963c, stripes #c76a1f, cream #fbe5c8, ear #f0a0a0, eyes #8fc04a, nose #e88a8a, scarf #e0392b, goggles #f4d12e; outline #1a1a1a. markings: darker orange stripes on forehead, cheeks, legs and flanks; ringed tail with cream tip; cream muzzle, chest-belly patch and paw tips. wearing: jungle explorer vest and pith helmet; red scarf; pilot goggles pushed up on the forehead when racing. props: rope coil; tuna can. must keep: pink inner ears; big green eyes; cream belly patch; ringed tail with cream tip. expression: determined. shot: head-and-shoulders expression study, plain flat background. style: clean uniform near-black outline, closed shapes, flat cel fills with one soft shade tone, a few hard-edged accent strokes, chubby readable proportions, no gradients on the character.",
+    "negative": "existing superhero logos, realistic anatomy in toon mode, blood or gore, photorealistic, painterly, gradients on character, sketchy lines, text watermark, deformed, extra fingers, inconsistent colours, cropped, text artefacts",
+    "meta": {
+      "composer": "1.0.0",
+      "bible": "colby",
+      "style": "toon",
+      "shot": "expression",
+      "expression": "determined",
+      "pose": null,
+      "variant": null,
+      "size": [
+        512,
+        512
+      ],
+      "bibleHash": "cfb4af41e3f112f5",
+      "promptHash": "fd90f55f9e0f8d8d"
+    },
+    "model": "mock-procedural/1.0 (toon)",
+    "seed": 7
+  },
+  {
+    "label": "expression-smug",
+    "prompt": "Colby, a cat (orange tabby), hero character, chubby, round, upright; big head, small paws. personality: plucky jungle explorer who hops across Perring Parkway. mood: cheerful, curious, brave. colours: fur #e8963c, stripes #c76a1f, cream #fbe5c8, ear #f0a0a0, eyes #8fc04a, nose #e88a8a, scarf #e0392b, goggles #f4d12e; outline #1a1a1a. markings: darker orange stripes on forehead, cheeks, legs and flanks; ringed tail with cream tip; cream muzzle, chest-belly patch and paw tips. wearing: jungle explorer vest and pith helmet; red scarf; pilot goggles pushed up on the forehead when racing. props: rope coil; tuna can. must keep: pink inner ears; big green eyes; cream belly patch; ringed tail with cream tip. expression: smug. shot: head-and-shoulders expression study, plain flat background. style: clean uniform near-black outline, closed shapes, flat cel fills with one soft shade tone, a few hard-edged accent strokes, chubby readable proportions, no gradients on the character.",
+    "negative": "existing superhero logos, realistic anatomy in toon mode, blood or gore, photorealistic, painterly, gradients on character, sketchy lines, text watermark, deformed, extra fingers, inconsistent colours, cropped, text artefacts",
+    "meta": {
+      "composer": "1.0.0",
+      "bible": "colby",
+      "style": "toon",
+      "shot": "expression",
+      "expression": "smug",
+      "pose": null,
+      "variant": null,
+      "size": [
+        512,
+        512
+      ],
+      "bibleHash": "cfb4af41e3f112f5",
+      "promptHash": "c97d89cc8637090f"
+    },
+    "model": "mock-procedural/1.0 (toon)",
+    "seed": 8
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "author": "bsommers",
+  "description": "Pose sheet (idle, run, jump, celebrate).",
+  "files": [
+    {
+      "bytes": 1186,
+      "path": "bible.json",
+      "sha256": "90ada07c8423e3c5f41cc7b6adc7e56cd54a5685b6865f78d4f2e0ce5053a520"
+    },
+    {
+      "bytes": 28650,
+      "path": "pose-sheet.png",
+      "sha256": "cf9813fb7f82d72905ce24a205c7b65ad12b2873d0edfa588b4319b35b1553f8"
+    },
+    {
+      "bytes": 5948,
+      "path": "prompts.json",
+      "sha256": "8d4848efd5a12b8c741d5a8c56953a9c8c21f18f02cb0880934c3146d53dee3e"
+    },
+    {
+      "bytes": 7465,
+      "path": "verdict.json",
+      "sha256": "6ce44cbc3f9a9d8165fd16ecebe2f1095f07bc36dbcce573af42d43b957c691a"
+    }
+  ],
+  "format": "png+json",
+  "hash": "8a32780ec6f40354802ff69319668c750ea45697562e788a0fb56f8fc9e6d265",
+  "id": "perring-parkway-pete.toon.pose-sheet",
+  "license": "CC0-1.0",
+  "name": "Perring Parkway Pete: toon pose sheet",
+  "palette": [
+    "#4a423b",
+    "#3a342f",
+    "#a86a68",
+    "#e0262e",
+    "#3b3d3a",
+    "#f1ead8",
+    "#1a1a1a"
+  ],
+  "preview": "preview.png",
+  "provenance": {
+    "game": "pawedracer",
+    "generator": "mock-procedural/1.0 (toon)",
+    "note": "bible 2f419930afaddf47; prompts 655bf3399ba821b4,b37c5315d32462b4,25889f91724e763c,22955e790cf799f1; seeds 7,8,9,10; verdict fail",
+    "source": "char-pipeline 1.0"
+  },
+  "size": {
+    "h": 512,
+    "w": 768
+  },
+  "tags": [
+    "character:perring-parkway-pete",
+    "generator:mock",
+    "quality:placeholder",
+    "role:villain",
+    "species:rat",
+    "style:cartoon-vector"
+  ],
+  "type": "character",
+  "version": "1.0.0"
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "label": "turnaround",
+    "prompt": "Perring Parkway Pete, a rat (feral, brown), villain character, gaunt, hunched, long-limbed. personality: road-rage rat who rules Perring Parkway. mood: menacing, rabid, smug villain. colours: fur #4a423b, shade #3a342f, skin #a86a68, eyes #e0262e, armor #3b3d3a, tooth #f1ead8; outline #1a1a1a. markings: mangy tufted fur; torn belly fur; long scaly pink tail with ring ridges. wearing: dark scrap-plate chest armour with shoulder straps. must keep: glowing red eyes; buck teeth; huge round pink-mauve ears; long pointed muzzle with long whiskers; hunched back. shot: character turnaround sheet: front view and side view side by side, same height, feet on a shared baseline, plain flat warm grey background, captions \"Front View\" and \"Side View\". style: clean uniform near-black outline, closed shapes, flat cel fills with one soft shade tone, a few hard-edged accent strokes, chubby readable proportions, no gradients on the character.",
+    "negative": "cuteness softening of the face, realistic gore, photorealistic, painterly, gradients on character, sketchy lines, text watermark, deformed, extra fingers, inconsistent colours, cropped, text artefacts",
+    "meta": {
+      "composer": "1.0.0",
+      "bible": "perring-parkway-pete",
+      "style": "toon",
+      "shot": "turnaround",
+      "expression": null,
+      "pose": null,
+      "variant": null,
+      "size": [
+        1200,
+        896
+      ],
+      "bibleHash": "2f419930afaddf47",
+      "promptHash": "fc96fea4300e6cc2"
+    },
+    "model": "mock-procedural/1.0 (toon)",
+    "seed": 1
+  }
+]

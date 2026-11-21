@@ -1,0 +1,528 @@
+{
+  "pass": true,
+  "summary": "13/13 items pass",
+  "items": [
+    {
+      "label": "expression-neutral",
+      "kind": "expression",
+      "checks": [
+        {
+          "name": "palette",
+          "rows": [
+            {
+              "role": "fur",
+              "want": "#e8963c",
+              "nearest": "#e8963c",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "stripes",
+              "want": "#c76a1f",
+              "nearest": "#c76a1f",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "cream",
+              "want": "#fbe5c8",
+              "nearest": "#fbe5c8",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "ear",
+              "want": "#f0a0a0",
+              "nearest": "#f0a0a0",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "eyes",
+              "want": "#8fc04a",
+              "nearest": "#8fc04a",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "nose",
+              "want": "#e88a8a",
+              "nearest": "#f0a0a0",
+              "dist": 32.1,
+              "ok": true
+            },
+            {
+              "role": "scarf",
+              "want": "#e0392b",
+              "nearest": "#c76a1f",
+              "dist": 56.3,
+              "ok": true
+            },
+            {
+              "role": "goggles",
+              "want": "#f4d12e",
+              "nearest": "#f4d12e",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "outline",
+              "want": "#1a1a1a",
+              "nearest": "#1a1a1a",
+              "dist": 0,
+              "ok": true
+            }
+          ],
+          "coverage": 1,
+          "pixelCoverage": 0.97,
+          "pass": true,
+          "detail": "9/9 bible colours found (need 60%), 97% of pixels on-palette (need 75%)"
+        },
+        {
+          "name": "size-anchor",
+          "fill": 0.881,
+          "footY": 0.961,
+          "centreX": 0.501,
+          "pass": true,
+          "detail": "fill 0.88, feet at 0.96, centre 0.50"
+        }
+      ],
+      "pass": true
+    },
+    {
+      "label": "expression-happy",
+      "kind": "expression",
+      "checks": [
+        {
+          "name": "palette",
+          "rows": [
+            {
+              "role": "fur",
+              "want": "#e8963c",
+              "nearest": "#e8963c",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "stripes",
+              "want": "#c76a1f",
+              "nearest": "#c76a1f",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "cream",
+              "want": "#fbe5c8",
+              "nearest": "#fbe5c8",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "ear",
+              "want": "#f0a0a0",
+              "nearest": "#f0a0a0",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "eyes",
+              "want": "#8fc04a",
+              "nearest": "#8fc04a",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "nose",
+              "want": "#e88a8a",
+              "nearest": "#f0a0a0",
+              "dist": 32.1,
+              "ok": true
+            },
+            {
+              "role": "scarf",
+              "want": "#e0392b",
+              "nearest": "#c76a1f",
+              "dist": 56.3,
+              "ok": true
+            },
+            {
+              "role": "goggles",
+              "want": "#f4d12e",
+              "nearest": "#f4d12e",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "outline",
+              "want": "#1a1a1a",
+              "nearest": "#1a1a1a",
+              "dist": 0,
+              "ok": true
+            }
+          ],
+          "coverage": 1,
+          "pixelCoverage": 0.969,
+          "pass": true,
+          "detail": "9/9 bible colours found (need 60%), 97% of pixels on-palette (need 75%)"
+        },
+        {
+          "name": "size-anchor",
+          "fill": 0.881,
+          "footY": 0.961,
+          "centreX": 0.501,
+          "pass": true,
+          "detail": "fill 0.88, feet at 0.96, centre 0.50"
+        }
+      ],
+      "pass": true
+    },
+    {
+      "label": "expression-scared",
+      "kind": "expression",
+      "checks": [
+        {
+          "name": "palette",
+          "rows": [
+            {
+              "role": "fur",
+              "want": "#e8963c",
+              "nearest": "#e8963c",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "stripes",
+              "want": "#c76a1f",
+              "nearest": "#c76a1f",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "cream",
+              "want": "#fbe5c8",
+              "nearest": "#fbe5c8",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "ear",
+              "want": "#f0a0a0",
+              "nearest": "#f0a0a0",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "eyes",
+              "want": "#8fc04a",
+              "nearest": "#8fc04a",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "nose",
+              "want": "#e88a8a",
+              "nearest": "#f0a0a0",
+              "dist": 32.1,
+              "ok": true
+            },
+            {
+              "role": "scarf",
+              "want": "#e0392b",
+              "nearest": "#c76a1f",
+              "dist": 56.3,
+              "ok": true
+            },
+            {
+              "role": "goggles",
+              "want": "#f4d12e",
+              "nearest": "#f4d12e",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "outline",
+              "want": "#1a1a1a",
+              "nearest": "#1a1a1a",
+              "dist": 0,
+              "ok": true
+            }
+          ],
+          "coverage": 1,
+          "pixelCoverage": 0.957,
+          "pass": true,
+          "detail": "9/9 bible colours found (need 60%), 96% of pixels on-palette (need 75%)"
+        },
+        {
+          "name": "size-anchor",
+          "fill": 0.881,
+          "footY": 0.961,
+          "centreX": 0.501,
+          "pass": true,
+          "detail": "fill 0.88, feet at 0.96, centre 0.50"
+        }
+      ],
+      "pass": true
+    },
+    {
+      "label": "expression-surprised",
+      "kind": "expression",
+      "checks": [
+        {
+          "name": "palette",
+          "rows": [
+            {
+              "role": "fur",
+              "want": "#e8963c",
+              "nearest": "#e8963c",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "stripes",
+              "want": "#c76a1f",
+              "nearest": "#c76a1f",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "cream",
+              "want": "#fbe5c8",
+              "nearest": "#fbe5c8",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "ear",
+              "want": "#f0a0a0",
+              "nearest": "#f0a0a0",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "eyes",
+              "want": "#8fc04a",
+              "nearest": "#8fc04a",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "nose",
+              "want": "#e88a8a",
+              "nearest": "#f0a0a0",
+              "dist": 32.1,
+              "ok": true
+            },
+            {
+              "role": "scarf",
+              "want": "#e0392b",
+              "nearest": "#c76a1f",
+              "dist": 56.3,
+              "ok": true
+            },
+            {
+              "role": "goggles",
+              "want": "#f4d12e",
+              "nearest": "#f4d12e",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "outline",
+              "want": "#1a1a1a",
+              "nearest": "#1a1a1a",
+              "dist": 0,
+              "ok": true
+            }
+          ],
+          "coverage": 1,
+          "pixelCoverage": 0.957,
+          "pass": true,
+          "detail": "9/9 bible colours found (need 60%), 96% of pixels on-palette (need 75%)"
+        },
+        {
+          "name": "size-anchor",
+          "fill": 0.881,
+          "footY": 0.961,
+          "centreX": 0.501,
+          "pass": true,
+          "detail": "fill 0.88, feet at 0.96, centre 0.50"
+        }
+      ],
+      "pass": true
+    },
+    {
+      "label": "expression-determined",
+      "kind": "expression",
+      "checks": [
+        {
+          "name": "palette",
+          "rows": [
+            {
+              "role": "fur",
+              "want": "#e8963c",
+              "nearest": "#e8963c",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "stripes",
+              "want": "#c76a1f",
+              "nearest": "#c76a1f",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "cream",
+              "want": "#fbe5c8",
+              "nearest": "#fbe5c8",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "ear",
+              "want": "#f0a0a0",
+              "nearest": "#f0a0a0",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "eyes",
+              "want": "#8fc04a",
+              "nearest": "#8fc04a",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "nose",
+              "want": "#e88a8a",
+              "nearest": "#f0a0a0",
+              "dist": 32.1,
+              "ok": true
+            },
+            {
+              "role": "scarf",
+              "want": "#e0392b",
+              "nearest": "#c76a1f",
+              "dist": 56.3,
+              "ok": true
+            },
+            {
+              "role": "goggles",
+              "want": "#f4d12e",
+              "nearest": "#f4d12e",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "outline",
+              "want": "#1a1a1a",
+              "nearest": "#1a1a1a",
+              "dist": 0,
+              "ok": true
+            }
+          ],
+          "coverage": 1,
+          "pixelCoverage": 0.98,
+          "pass": true,
+          "detail": "9/9 bible colours found (need 60%), 98% of pixels on-palette (need 75%)"
+        },
+        {
+          "name": "size-anchor",
+          "fill": 0.881,
+          "footY": 0.961,
+          "centreX": 0.501,
+          "pass": true,
+          "detail": "fill 0.88, feet at 0.96, centre 0.50"
+        }
+      ],
+      "pass": true
+    },
+    {
+      "label": "expression-smug",
+      "kind": "expression",
+      "checks": [
+        {
+          "name": "palette",
+          "rows": [
+            {
+              "role": "fur",
+              "want": "#e8963c",
+              "nearest": "#e8963c",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "stripes",
+              "want": "#c76a1f",
+              "nearest": "#c76a1f",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "cream",
+              "want": "#fbe5c8",
+              "nearest": "#fbe5c8",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "ear",
+              "want": "#f0a0a0",
+              "nearest": "#f0a0a0",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "eyes",
+              "want": "#8fc04a",
+              "nearest": "#8fc04a",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "nose",
+              "want": "#e88a8a",
+              "nearest": "#f0a0a0",
+              "dist": 32.1,
+              "ok": true
+            },
+            {
+              "role": "scarf",
+              "want": "#e0392b",
+              "nearest": "#c76a1f",
+              "dist": 56.3,
+              "ok": true
+            },
+            {
+              "role": "goggles",
+              "want": "#f4d12e",
+              "nearest": "#f4d12e",
+              "dist": 0,
+              "ok": true
+            },
+            {
+              "role": "outline",
+              "want": "#1a1a1a",
+              "nearest": "#1a1a1a",
+              "dist": 0,
+              "ok": true
+            }
+          ],
+          "coverage": 1,
+          "pixelCoverage": 0.969,
+          "pass": true,
+          "detail": "9/9 bible colours found (need 60%), 97% of pixels on-palette (need 75%)"
+        },
+        {
+          "name": "size-anchor",
+          "fill": 0.881,
+          "footY": 0.961,
+          "centreX": 0.501,
+          "pass": true,
+          "detail": "fill 0.88, feet at 0.96, centre 0.50"
+        }
+      ],
+      "pass": true
+    }
+  ]
+}
